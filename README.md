@@ -50,7 +50,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 
 
-##Competition
+## Competition
 
 * **Kaggle DFDC**: [Competition](https://www.kaggle.com/c/deepfake-detection-challenge)
 
@@ -87,4 +87,4 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ### Other
 
-(To be Continued)
+(to be continued)
