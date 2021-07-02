@@ -74,23 +74,23 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ### CVPR
 
-* "Representative Forgery Mining for Fake Face Detection", CVPR 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Representative_Forgery_Mining_for_Fake_Face_Detection_CVPR_2021_paper.pdf)
+* "Representative Forgery Mining for Fake Face Detection", CVPR 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Representative_Forgery_Mining_for_Fake_Face_Detection_CVPR_2021_paper.pdf)    [Github](https://github.com/crywang/RFM)
 * "MagDR: Mask-Guided Detection and Reconstruction for Defending Deepfakes", CVPR 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_MagDR_Mask-Guided_Detection_and_Reconstruction_for_Defending_Deepfakes_CVPR_2021_paper.pdf)
-* "Improving the Efficiency and Robustness of Deepfakes Detection Through Precise Geometric Features", CVPR 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Improving_the_Efficiency_and_Robustness_of_Deepfakes_Detection_Through_Precise_CVPR_2021_paper.pdf)
-* "Multi-Attentional Deepfake Detection", CVPR 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Multi-Attentional_Deepfake_Detection_CVPR_2021_paper.html)
+* "Improving the Efficiency and Robustness of Deepfakes Detection Through Precise Geometric Features", CVPR 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Improving_the_Efficiency_and_Robustness_of_Deepfakes_Detection_Through_Precise_CVPR_2021_paper.pdf)    [Github](https://github.com/frederickszk/LRnet)
+* "Multi-Attentional Deepfake Detection", CVPR 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Multi-Attentional_Deepfake_Detection_CVPR_2021_paper.html)    [Github](https://github.com/yoctta/multiple-attention)
 * "Lips Don't Lie: A Generalisable and Robust Approach To Face Forgery Detection", CVPR 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Haliassos_Lips_Dont_Lie_A_Generalisable_and_Robust_Approach_To_Face_CVPR_2021_paper.pdf)
 * "Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain", CVPR 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Spatial-Phase_Shallow_Learning_Rethinking_Face_Forgery_Detection_in_Frequency_Domain_CVPR_2021_paper.pdf)
 * "Frequency-Aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection", CVPR 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Frequency-Aware_Discriminative_Feature_Learning_Supervised_by_Single-Center_Loss_for_Face_CVPR_2021_paper.pdf)
 * "Generalizing Face Forgery Detection With High-Frequency Features", CVPR 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_Generalizing_Face_Forgery_Detection_With_High-Frequency_Features_CVPR_2021_paper.pdf)
 * "Face Forgery Detection by 3D Decomposition", CVPR 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Face_Forgery_Detection_by_3D_Decomposition_CVPR_2021_paper.pdf)
 * "Global Texture Enhancement for Fake Face Detection in the Wild", CVPR 2020: [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Global_Texture_Enhancement_for_Fake_Face_Detection_in_the_Wild_CVPR_2020_paper.pdf)
-* "On the Detection of Digital Face Manipulation", CVPR 2020: [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dang_On_the_Detection_of_Digital_Face_Manipulation_CVPR_2020_paper.pdf)
+* "On the Detection of Digital Face Manipulation", CVPR 2020: [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dang_On_the_Detection_of_Digital_Face_Manipulation_CVPR_2020_paper.pdf)    [Github](https://github.com/JStehouwer/FFD_CVPR2020)
 * "Face X-Ray for More General Face Forgery Detection", CVPR 2020: [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Face_X-Ray_for_More_General_Face_Forgery_Detection_CVPR_2020_paper.pdf)
-* "FReTAL: Generalizing Deepfake Detection using Knowledge Distillation and Representation Learning", CVPR 2021 Workshop: [Paper](https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Kim_FReTAL_Generalizing_Deepfake_Detection_Using_Knowledge_Distillation_and_Representation_Learning_CVPRW_2021_paper.pdf)
+* "FReTAL: Generalizing Deepfake Detection using Knowledge Distillation and Representation Learning", CVPR 2021 Workshop: [Paper](https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Kim_FReTAL_Generalizing_Deepfake_Detection_Using_Knowledge_Distillation_and_Representation_Learning_CVPRW_2021_paper.pdf)    [Github](https://github.com/alsgkals2/FReTAL-Generalizing_Deepfakes_using_Knowledge_Distillation_and_Representation_Learning)
 
 ### ICCV
 
-* "Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints", ICCV 2019: [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_GAN_Fingerprints_ICCV_2019_paper.pdf)
+* "Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints", ICCV 2019: [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_GAN_Fingerprints_ICCV_2019_paper.pdf)    [Github](https://github.com/ningyu1991/GANFingerprints)
 
 ### ECCV
 
@@ -99,7 +99,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ### ICML
 
-* "Leveraging Frequency Analysis for Deep Fake Image Recognition", ICML 2020: [Paper](http://proceedings.mlr.press/v119/frank20a/frank20a.pdf)
+* "Leveraging Frequency Analysis for Deep Fake Image Recognition", ICML 2020: [Paper](http://proceedings.mlr.press/v119/frank20a/frank20a.pdf)    [Github](https://github.com/RUB-SysSec/GANDCTAnalysis)
 
 ### IJCAI
 
@@ -107,7 +107,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ### AAAI
 
-* "Domain General Face Forgery Detection by Learning to Weight", AAAI 2021: [Paper](https://www.aaai.org/AAAI21Papers/AAAI-589.SunK.pdf)
+* "Domain General Face Forgery Detection by Learning to Weight", AAAI 2021: [Paper](https://www.aaai.org/AAAI21Papers/AAAI-589.SunK.pdf)    [Github](https://github.com/skJack/LTW)
 * "Local Relation Learning for Face Forgery Detection", AAAI 2021: [Paper](https://arxiv.org/pdf/2105.02577.pdf)
 
 ### NIPS
@@ -116,7 +116,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ### ACM MM
 
-* "Not made for each other- Audio-Visual Dissonance-based Deepfake Detection and Localization", ACM MM 2020: [Paper](https://dl.acm.org/doi/10.1145/3394171.3413700)
+* "Not made for each other- Audio-Visual Dissonance-based Deepfake Detection and Localization", ACM MM 2020: [Paper](https://dl.acm.org/doi/10.1145/3394171.3413700)    [Github](https://github.com/abhinavdhall/deepfake/)
 * "Sharp Multiple Instance Learning for DeepFake Video Detection", ACM MM 2020: [Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3414034)
 * "DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms", ACM MM 2020: [Paper](https://dl.acm.org/doi/10.1145/3394171.3413707)
 * "Emotions Don't Lie: An Audio-Visual Deepfake Detection Method using Affective Cues", ACM MM 2020: [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413570)
@@ -129,6 +129,6 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 * "FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals", TPAMI 2020: [Paper](https://ieeexplore.ieee.org/document/9141516)
 * "How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals", IJCB 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9304909)
-* "Deepfake Detection using Spatiotemporal Convolutional Networks", arxiv: [Paper](https://arxiv.org/abs/2006.14749)
+* "Deepfake Detection using Spatiotemporal Convolutional Networks", arxiv: [Paper](https://arxiv.org/abs/2006.14749)    [Github](https://github.com/oidelima/Deepfake-Detection)
 * "A Convolutional LSTM based Residual Network for Deepfake Video Detection", arxiv: [Paper](https://arxiv.org/abs/2009.07480)
 * "Spatio-temporal Features for Generalized Detection of Deepfake Videos", submitted to CVIU: [Paper](https://arxiv.org/abs/2010.11844)
