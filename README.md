@@ -23,6 +23,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
   - [NIPS](#nips)
   - [ACM MM](#acm-mm)
   - [ICME](#icme)
+  - [TPAMI](#tpami)
   - [Other](#other)
 
 
@@ -124,6 +125,11 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 ### ICME
 
 * "FSSPOTTER: Spotting Face-Swapped Video by Spatial and Temporal Clues", ICME 2020: [Paper](https://ieeexplore.ieee.org/document/9102914)
+
+### TPAMI
+
+* "DeepFake Detection Based on Discrepancies Between Faces and their Context", TPAMI 2021: [Paper](https://ieeexplore.ieee.org/document/9468380/)
+* "FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals", TPAMI 2021: [Paper](https://ieeexplore.ieee.org/document/9141516/)
 
 ### Other
 
