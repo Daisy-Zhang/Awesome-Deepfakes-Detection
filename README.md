@@ -24,6 +24,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
   - [ACM MM](#acm-mm)
   - [ICME](#icme)
   - [TPAMI](#tpami)
+  - [TIFS](#tifs)
   - [Other](#other)
 
 
@@ -130,6 +131,11 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 * "DeepFake Detection Based on Discrepancies Between Faces and their Context", TPAMI 2021: [Paper](https://ieeexplore.ieee.org/document/9468380/)
 * "FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals", TPAMI 2021: [Paper](https://ieeexplore.ieee.org/document/9141516/)
+
+### TIFS
+
+* "Detection of Fake and Fraudulent Faces via Neural Memory Networks", TIFS 2021: [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9309253)
+* "Preventing DeepFake Attacks on Speaker Authentication by Dynamic Lip Movement Analysis", TIFS 2021: [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9298826)
 
 ### Other
 
