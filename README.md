@@ -163,8 +163,6 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 * "Detecting Deepfake Videos with Temporal Dropout 3DCNN". IJCAI 2021
 
-* "Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes", IJCAI 2021: [Paper](Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes)
-
 * "An Examination of Fairness of AI Models for Deepfake Detection", IJCAI 2021: [Paper](https://arxiv.org/abs/2105.00558)
 
 * "Beyond the Spectrum: Detecting Deepfakes via Re-Synthesis", IJCAI 2021: [Paper](https://arxiv.org/abs/2105.14376)    [Github](https://github.com/SSAW14/BeyondtheSpectrum)
@@ -202,6 +200,8 @@ For better comparison and research purpose, we also collect the benchmark of all
 * "Preventing DeepFake Attacks on Speaker Authentication by Dynamic Lip Movement Analysis", TIFS 2021: [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9298826)
 
 ### Other
+
+* "Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes", WACV 2021: [Paper](Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes)
 
 * "FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals", TPAMI 2020: [Paper](https://ieeexplore.ieee.org/document/9141516)
 * "How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals", IJCB 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9304909)
