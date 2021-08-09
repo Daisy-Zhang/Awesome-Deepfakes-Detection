@@ -161,6 +161,14 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 ### IJCAI
 
+* "Detecting Deepfake Videos with Temporal Dropout 3DCNN". IJCAI 2021
+
+* "Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes", IJCAI 2021: [Paper](Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes)
+
+* "An Examination of Fairness of AI Models for Deepfake Detection", IJCAI 2021: [Paper](https://arxiv.org/abs/2105.00558)
+
+* "Beyond the Spectrum: Detecting Deepfakes via Re-Synthesis", IJCAI 2021: [Paper](https://arxiv.org/abs/2105.14376)    [Github](https://github.com/SSAW14/BeyondtheSpectrum)
+
 * "FakeSpotter: A Simple yet Robust Baseline for Spotting AI-Synthesized Fake Faces", IJCAI 2020: [Paper](https://www.ijcai.org/Proceedings/2020/0476.pdf)
 
 ### AAAI
