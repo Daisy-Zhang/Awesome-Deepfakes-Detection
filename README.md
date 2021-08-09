@@ -201,7 +201,7 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 ### Other
 
-* "Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes", WACV 2021: [Paper](Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes)
+* "Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes", WACV 2021: [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Trinh_Interpretable_and_Trustworthy_Deepfake_Detection_via_Dynamic_Prototypes_WACV_2021_paper.pdf)
 
 * "FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals", TPAMI 2020: [Paper](https://ieeexplore.ieee.org/document/9141516)
 * "How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals", IJCB 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9304909)
