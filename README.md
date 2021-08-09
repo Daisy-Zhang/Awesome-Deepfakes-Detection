@@ -161,7 +161,7 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 ### IJCAI
 
-* "Detecting Deepfake Videos with Temporal Dropout 3DCNN". IJCAI 2021
+* "Detecting Deepfake Videos with Temporal Dropout 3DCNN", IJCAI 2021
 
 * "An Examination of Fairness of AI Models for Deepfake Detection", IJCAI 2021: [Paper](https://arxiv.org/abs/2105.00558)
 
