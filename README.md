@@ -114,10 +114,10 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 ## Competition
 
-* **Kaggle DFDC**: [Competition](https://www.kaggle.com/c/deepfake-detection-challenge)
-* **DFGC**: [Competition](http://dfgc2021.iapr-tc4.org/)
+* **Deepfake Detection Challenge 2019**: [Competition](https://www.kaggle.com/c/deepfake-detection-challenge)
 * **DeepForensics Challenge 2020**: [Competition](https://competitions.codalab.org/competitions/25228)
 
+* **Deepfake Game Competition 2021**: [Competition](http://dfgc2021.iapr-tc4.org/)
 * **Face Forgery Analysis Challenge 2021**: [Competition](https://competitions.codalab.org/competitions/33386)
 
 
