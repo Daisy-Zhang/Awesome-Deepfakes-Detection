@@ -32,28 +32,28 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 For better comparison and research purpose, we also collect the benchmark of all the SOTA methods we can get on Celeb-DF, DFDC and FaceForensic++ datasets in video-level. We use AUC score (%) as the metrics. The results are presented as follows. Results in *italics* indicate they were conducted in [Yuezun Li](https://arxiv.org/abs/1909.12962) or [Alexandros Haliassos](https://arxiv.org/pdf/2012.07657.pdf), not in their original paper.
 
-|                                                           | Celeb-DF(v2) |  DFDC  | FaceForensic++ |                           *note*                            |
-| :-------------------------------------------------------: | :----------: | :----: | :------------: | :---------------------------------------------------------: |
-|      [Two-Stream](https://arxiv.org/abs/1803.11276)       |    *53.8*    | *61.4* |     *70.7*     |   FF++ only on DF subset. Use provided pre-trained model.   |
-|  [VA-MLP](https://ieeexplore.ieee.org/document/8638330)   |    *55.0*    | *61.9* |     *66.4*     |                       Same as above.                        |
-| [VA-LogReg](https://ieeexplore.ieee.org/document/8638330) |    *55.1*    | *66.2* |     *78.0*     |                       Same as above.                        |
-|         [Meso4](https://arxiv.org/abs/1809.00888)         |    *54.8*    | *75.3* |     *84.7*     |                       Same as above.                        |
-|    [MesoInception4](https://arxiv.org/abs/1809.00888)     |    *53.6*    | *73.2* |     *83.0*     |                       Same as above.                        |
-|          [FWA](https://arxiv.org/abs/1811.00656)          |    *56.9*    | *72.7* |     *80.1*     |                       Same as above.                        |
-|        [DSP-FWA](https://arxiv.org/abs/1811.00656)        |    *64.6*    | *75.5* |     *93.0*     |                       Same as above.                        |
-|     [Xception-raw](https://arxiv.org/abs/1901.08971)      |    *48.2*    | *49.9* |     *99.7*     |                       Same as above.                        |
-|     [Xception-c23](https://arxiv.org/abs/1901.08971)      |    *65.3*    | *72.2* |     *99.7*     |                       Same as above.                        |
-|     [Xception-c40](https://arxiv.org/abs/1901.08971)      |    *65.5*    | *69.7* |     *95.5*     |                       Same as above.                        |
-|      [Multi-Task](https://arxiv.org/abs/1906.06876)       |    *54.3*    | *53.6* |     *76.3*     |                       Same as above.                        |
-|      [CapsuleNet](https://arxiv.org/abs/1910.12467)       |    *57.5*    | *53.3* |     *96.6*     |                       Same as above.                        |
-|       [CNN-Spot](https://arxiv.org/abs/1912.11035)        |    *75.6*    | *72.1* |     *65.7*     | FF++ only on FaceShifter HQ subset. All pretrained on FF++. |
-|      [Patch-based](https://arxiv.org/abs/2008.10588)      |    *69.6*    | *65.6* |     *57.8*     |                       Same as above.                        |
-|      [Face X-ray](https://arxiv.org/abs/1912.13458)       |    *79.5*    | *65.5* |     *92.8*     |                       Same as above.                        |
-|        [CNN-RNN](https://arxiv.org/abs/1905.00582)        |    *69.8*    | *68.9* |     *80.8*     |                       Same as above.                        |
-|     [LipsForensics](https://arxiv.org/abs/2012.07657)     |     82.4     |  73.5  |      97.1      |                       Same as above.                        |
-|      [Two-Branch](https://arxiv.org/abs/2008.03412)       |     76.7     |   -    |      93.2      |                              -                              |
-|         [LRNet](https://arxiv.org/abs/2104.04480)         |     56.9     |   -    |      99.9      |                      Trained on FF++.                       |
-|   [FD<sup>2</sup>Net](https://arxiv.org/abs/2011.09737)   |      -       | 66.09  |     99.45      |                              -                              |
+|                                                           | Celeb-DF(v2) |  DFDC  | FaceForensic++ | Year |                           *Note*                            |
+| :-------------------------------------------------------: | :----------: | :----: | :------------: | :--: | :---------------------------------------------------------: |
+|      [Two-Stream](https://arxiv.org/abs/1803.11276)       |    *53.8*    | *61.4* |     *70.7*     | 2017 |   FF++ only on DF subset. Use provided pre-trained model.   |
+|         [Meso4](https://arxiv.org/abs/1809.00888)         |    *54.8*    | *75.3* |     *84.7*     | 2018 |                       Same as above.                        |
+|    [MesoInception4](https://arxiv.org/abs/1809.00888)     |    *53.6*    | *73.2* |     *83.0*     | 2018 |                       Same as above.                        |
+|          [FWA](https://arxiv.org/abs/1811.00656)          |    *56.9*    | *72.7* |     *80.1*     | 2018 |                       Same as above.                        |
+|        [DSP-FWA](https://arxiv.org/abs/1811.00656)        |    *64.6*    | *75.5* |     *93.0*     | 2018 |                       Same as above.                        |
+|  [VA-MLP](https://ieeexplore.ieee.org/document/8638330)   |    *55.0*    | *61.9* |     *66.4*     | 2019 |                       Same as above.                        |
+| [VA-LogReg](https://ieeexplore.ieee.org/document/8638330) |    *55.1*    | *66.2* |     *78.0*     | 2019 |                       Same as above.                        |
+|     [Xception-raw](https://arxiv.org/abs/1901.08971)      |    *48.2*    | *49.9* |     *99.7*     | 2019 |                       Same as above.                        |
+|     [Xception-c23](https://arxiv.org/abs/1901.08971)      |    *65.3*    | *72.2* |     *99.7*     | 2019 |                       Same as above.                        |
+|     [Xception-c40](https://arxiv.org/abs/1901.08971)      |    *65.5*    | *69.7* |     *95.5*     | 2019 |                       Same as above.                        |
+|      [Multi-Task](https://arxiv.org/abs/1906.06876)       |    *54.3*    | *53.6* |     *76.3*     | 2019 |                       Same as above.                        |
+|      [CapsuleNet](https://arxiv.org/abs/1910.12467)       |    *57.5*    | *53.3* |     *96.6*     | 2019 |                       Same as above.                        |
+|       [CNN-Spot](https://arxiv.org/abs/1912.11035)        |    *75.6*    | *72.1* |     *65.7*     | 2019 | FF++ only on FaceShifter HQ subset. All pretrained on FF++. |
+|      [Face X-ray](https://arxiv.org/abs/1912.13458)       |    *79.5*    | *65.5* |     *92.8*     | 2019 |                       Same as above.                        |
+|        [CNN-RNN](https://arxiv.org/abs/1905.00582)        |    *69.8*    | *68.9* |     *80.8*     | 2019 |                       Same as above.                        |
+|     [LipsForensics](https://arxiv.org/abs/2012.07657)     |     82.4     |  73.5  |      97.1      | 2020 |                       Same as above.                        |
+|      [Two-Branch](https://arxiv.org/abs/2008.03412)       |     76.7     |   -    |      93.2      | 2020 |                              -                              |
+|      [Patch-based](https://arxiv.org/abs/2008.10588)      |    *69.6*    | *65.6* |     *57.8*     | 2020 |                       Same as above.                        |
+|   [FD<sup>2</sup>Net](https://arxiv.org/abs/2011.09737)   |      -       | 66.09  |     99.45      | 2020 |                              -                              |
+|         [LRNet](https://arxiv.org/abs/2104.04480)         |     56.9     |   -    |      99.9      | 2021 |                      Trained on FF++.                       |
 
 
 
