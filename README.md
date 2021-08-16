@@ -118,6 +118,8 @@ For better comparison and research purpose, we also collect the benchmark of all
 * **DFGC**: [Competition](http://dfgc2021.iapr-tc4.org/)
 * **DeepForensics Challenge 2020**: [Competition](https://competitions.codalab.org/competitions/25228)
 
+* **Face Forgery Analysis Challenge 2021**: [Competition](https://competitions.codalab.org/competitions/33386)
+
 
 
 ## Tools
