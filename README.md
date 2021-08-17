@@ -114,11 +114,14 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 ## Competition
 
-* **Deepfake Detection Challenge 2019**: [Competition](https://www.kaggle.com/c/deepfake-detection-challenge)
-* **DeepForensics Challenge 2020**: [Competition](https://competitions.codalab.org/competitions/25228)
+|              Name               |                             Link                             | Year |                             Note                             |
+| :-----------------------------: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: |
+|  Deepfake Detection Challenge   | [Website](https://www.kaggle.com/c/deepfake-detection-challenge) | 2019 | 1. video-level detection.<br>2. use DFDC datasets.<br/> 3. the first worldwide competition.<br/> 4. more than 2,000 teams participated. |
+|     DeepForensics Challenge     | [Website](https://competitions.codalab.org/competitions/25228) | 2020 | 1. video-level detection.<br/> 2. use DeeperForensics-1.0 datasets.<br/> 3. simulates real-world scenarios. |
+|    Deepfake Game Competition    | [Website](https://competitions.codalab.org/competitions/29583) | 2021 | 1. both image-level generation and video-level detection track.<br/> 2. use Celeb-DF(v2) datasets. |
+| Face Forgery Analysis Challenge | [Website](https://competitions.codalab.org/competitions/33386) | 2021 | 1. both image-level and video-level detection track.<br/> 2. addtional temporal localization track.<br/> 3. use ForgeryNet dataset. |
 
-* **Deepfake Game Competition 2021**: [Competition](http://dfgc2021.iapr-tc4.org/)
-* **Face Forgery Analysis Challenge 2021**: [Competition](https://competitions.codalab.org/competitions/33386)
+
 
 
 
