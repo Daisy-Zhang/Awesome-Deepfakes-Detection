@@ -211,15 +211,16 @@ For better comparison and research purpose, we also collect the benchmark of all
 ### Other
 
 * "Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes", WACV 2021: [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Trinh_Interpretable_and_Trustworthy_Deepfake_Detection_via_Dynamic_Prototypes_WACV_2021_paper.pdf)
-
 * "FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals", TPAMI 2020: [Paper](https://ieeexplore.ieee.org/document/9141516)
 * "How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals", IJCB 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9304909)
 * "Deepfake Detection using Spatiotemporal Convolutional Networks", arxiv: [Paper](https://arxiv.org/abs/2006.14749)    [Github](https://github.com/oidelima/Deepfake-Detection)
 * "A Convolutional LSTM based Residual Network for Deepfake Video Detection", arxiv: [Paper](https://arxiv.org/abs/2009.07480)
 * "Spatio-temporal Features for Generalized Detection of Deepfake Videos", submitted to CVIU: [Paper](https://arxiv.org/abs/2010.11844)
-
 * "Exploiting Visual Artifacts to Expose Deepfakes and Face Manipulations", WACVW 2019: [Paper](https://ieeexplore.ieee.org/document/8638330)
 * "MesoNet: a Compact Facial Video Forgery Detection Network", WIFS 2018: [Paper](https://arxiv.org/abs/1809.00888)    [Github](https://github.com/DariusAf/MesoNet)
 * "Multi-task Learning For Detecting and Segmenting Manipulated Facial Images and Videos", BATS 2019: [Paper](https://arxiv.org/abs/1906.06876)
 * "Use of a Capsule Network to Detect Fake Images and Videos", arxiv: [Paper](https://arxiv.org/abs/1910.12467)
 * "What makes fake images detectable? Understanding properties that generalize", arxiv: [Paper](https://arxiv.org/abs/2008.10588)
+* "PRRNet: Pixel-Region relation network for face forgery detection", Pattern Recognition 2021: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321001370)
+* "ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery Detection", arxiv: [Paper](https://arxiv.org/abs/1812.02510)
+
