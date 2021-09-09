@@ -153,6 +153,7 @@ For better comparison and research purpose, we also collect the benchmark of all
 * "Face X-Ray for More General Face Forgery Detection", CVPR 2020: [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Face_X-Ray_for_More_General_Face_Forgery_Detection_CVPR_2020_paper.pdf)
 * CNN-generated images are surprisingly easy to spot... for now", CVPR 2020: [Paper](https://arxiv.org/abs/1912.11035)    [Github](https://github.com/PeterWang512/CNNDetection)
 * "FReTAL: Generalizing Deepfake Detection using Knowledge Distillation and Representation Learning", CVPR Workshop 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Kim_FReTAL_Generalizing_Deepfake_Detection_Using_Knowledge_Distillation_and_Representation_Learning_CVPRW_2021_paper.pdf)    [Github](https://github.com/alsgkals2/FReTAL-Generalizing_Deepfakes_using_Knowledge_Distillation_and_Representation_Learning)
+* "OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder", CVPR Workshop 2020: [Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf)
 * "Exposing DeepFake Videos By Detecting Face Warping Artifacts", CVPR Workshop 2019: [Paper](https://arxiv.org/abs/1811.00656)
 * "Recurrent Convolutional Strategies for Face Manipulation Detection in Videos", CVPR Workshop 2019: [Paper](https://arxiv.org/abs/1905.00582)
 * "Two-Stream Neural Networks for Tampered Face Detection", CVPR Workshop 2017: [Paper](https://arxiv.org/abs/1803.11276)
@@ -223,4 +224,5 @@ For better comparison and research purpose, we also collect the benchmark of all
 * "What makes fake images detectable? Understanding properties that generalize", arxiv: [Paper](https://arxiv.org/abs/2008.10588)
 * "PRRNet: Pixel-Region relation network for face forgery detection", Pattern Recognition 2021: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321001370)
 * "ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery Detection", arxiv: [Paper](https://arxiv.org/abs/1812.02510)
+* "Identity-Driven DeepFake Detection", CoRR 2020: [Paper](https://arxiv.org/abs/2012.03930)
 
