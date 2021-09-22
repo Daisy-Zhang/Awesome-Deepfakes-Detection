@@ -225,4 +225,7 @@ For better comparison and research purpose, we also collect the benchmark of all
 * "PRRNet: Pixel-Region relation network for face forgery detection", Pattern Recognition 2021: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321001370)
 * "ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery Detection", arxiv: [Paper](https://arxiv.org/abs/1812.02510)
 * "Identity-Driven DeepFake Detection", CoRR 2020: [Paper](https://arxiv.org/abs/2012.03930)
+* "Exposing Fake Faces Through Deep Neural Networks Combining Content and Trace Feature Extractors", IEEE Access 2021: [Paper](https://ieeexplore.ieee.org/abstract/document/9531572)
+* "Spatiotemporal Inconsistency Learning for DeepFake Video Detection", CoRR 2021: [Paper](https://arxiv.org/pdf/2109.01860.pdf)
+* "FaceGuard: Proactive Deepfake Detection": [Paper](https://arxiv.org/pdf/2109.05673v1.pdf)
 
