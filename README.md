@@ -227,5 +227,7 @@ For better comparison and research purpose, we also collect the benchmark of all
 * "Identity-Driven DeepFake Detection", CoRR 2020: [Paper](https://arxiv.org/abs/2012.03930)
 * "Exposing Fake Faces Through Deep Neural Networks Combining Content and Trace Feature Extractors", IEEE Access 2021: [Paper](https://ieeexplore.ieee.org/abstract/document/9531572)
 * "Spatiotemporal Inconsistency Learning for DeepFake Video Detection", CoRR 2021: [Paper](https://arxiv.org/pdf/2109.01860.pdf)
-* "FaceGuard: Proactive Deepfake Detection": [Paper](https://arxiv.org/pdf/2109.05673v1.pdf)
+* "FaceGuard: Proactive Deepfake Detection", CoRR 2021: [Paper](https://arxiv.org/pdf/2109.05673v1.pdf)
+* "DeepFake-o-meter: An Open Platform for DeepFake Detection", SP Workshops 2021: [Paper](https://arxiv.org/abs/2103.02018)
+* "FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset", CoRR 2021 (Submitted to NIPS 2021): [Paper](https://openreview.net/pdf?id=TAXFsg6ZaOl) [Github](https://github.com/hasamkhalid/FakeAVCeleb)
 
