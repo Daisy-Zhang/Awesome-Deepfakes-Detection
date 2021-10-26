@@ -196,6 +196,11 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 ### ACM MM
 
+* "Spatiotemporal Inconsistency Learning for DeepFake Video Detection", ACM MM 2021: [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475508)
+* "Video Transformer for Deepfake Detection with Incremental Learning", ACM MM 2021: [Paper](https://arxiv.org/ftp/arxiv/papers/2108/2108.05307.pdf)
+* "Metric Learning for Anti-Compression Facial Forgery Detection", ACM MM 2021: [Paper](https://arxiv.org/pdf/2103.08397.pdf)
+* "CoReD: Generalizing Fake Media Detection with Continual Representation using Distillation", ACM MM 2021: [Paper](https://arxiv.org/pdf/2107.02408.pdf)
+* "FakeTagger: Robust Safeguards against DeepFake Dissemination via Provenance Tracking", ACM MM 2021: [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475518)
 * "Not made for each other- Audio-Visual Dissonance-based Deepfake Detection and Localization", ACM MM 2020: [Paper](https://dl.acm.org/doi/10.1145/3394171.3413700)    [Github](https://github.com/abhinavdhall/deepfake/)
 * "Sharp Multiple Instance Learning for DeepFake Video Detection", ACM MM 2020: [Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3414034)
 * "DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms", ACM MM 2020: [Paper](https://dl.acm.org/doi/10.1145/3394171.3413707)
@@ -203,6 +208,9 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 ### ICME
 
+* "DEEPFAKE VIDEOS DETECTION USING SELF-SUPERVISED DECOUPLING NETWORK", ICME 2021: [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428368)
+* "DLFMNET: END-TO-END DETECTION AND LOCALIZATION OF FACE MANIPULATION USING MULTI-DOMAIN FEATURES", ICME 2021: [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428450) [Github](https://github.com/LightningChan/DLFMNet)
+* "DEFAKEHOP: A LIGHT-WEIGHT HIGH-PERFORMANCE DEEPFAKE DETECTOR", ICME 2021: [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428361) [Github](https://github.com/hongshuochen/DefakeHop)
 * "FSSPOTTER: Spotting Face-Swapped Video by Spatial and Temporal Clues", ICME 2020: [Paper](https://ieeexplore.ieee.org/document/9102914)
 
 ### TPAMI
@@ -232,7 +240,6 @@ For better comparison and research purpose, we also collect the benchmark of all
 * "ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery Detection", arxiv: [Paper](https://arxiv.org/abs/1812.02510)
 * "Identity-Driven DeepFake Detection", CoRR 2020: [Paper](https://arxiv.org/abs/2012.03930)
 * "Exposing Fake Faces Through Deep Neural Networks Combining Content and Trace Feature Extractors", IEEE Access 2021: [Paper](https://ieeexplore.ieee.org/abstract/document/9531572)
-* "Spatiotemporal Inconsistency Learning for DeepFake Video Detection", CoRR 2021: [Paper](https://arxiv.org/pdf/2109.01860.pdf)
 * "FaceGuard: Proactive Deepfake Detection", CoRR 2021: [Paper](https://arxiv.org/pdf/2109.05673v1.pdf)
 * "DeepFake-o-meter: An Open Platform for DeepFake Detection", SP Workshops 2021: [Paper](https://arxiv.org/abs/2103.02018)
 * "FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset", CoRR 2021 (Submitted to NIPS 2021): [Paper](https://openreview.net/pdf?id=TAXFsg6ZaOl) [Github](https://github.com/hasamkhalid/FakeAVCeleb)
