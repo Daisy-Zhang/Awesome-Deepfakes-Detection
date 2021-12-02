@@ -244,4 +244,4 @@ For better comparison and research purpose, we also collect the benchmark of all
 * "DeepFake-o-meter: An Open Platform for DeepFake Detection", SP Workshops 2021: [Paper](https://arxiv.org/abs/2103.02018)
 * "FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset", CoRR 2021 (Submitted to NIPS 2021): [Paper](https://openreview.net/pdf?id=TAXFsg6ZaOl) [Github](https://github.com/hasamkhalid/FakeAVCeleb)
 * "DeepfakeUCL: Deepfake Detection via Unsupervised Contrastive Learning", IJCNN 2021: [Paper](https://arxiv.org/abs/2104.11507)
-
+* "M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection", CoRR 2021: [Paper](https://arxiv.org/abs/2104.09770)
