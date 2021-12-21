@@ -160,6 +160,7 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 ### ICCV
 
+* "KoDF: A Large-scale Korean DeepFake Detection Dataset", ICCV 2021: [Paper](https://arxiv.org/abs/2103.10094)
 * "Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data", ICCV 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Artificial_Fingerprinting_for_Generative_Models_Rooting_Deepfake_Attribution_in_Training_ICCV_2021_paper.pdf)
 * "Exploring Temporal Coherence for More General Video Face Forgery Detection", ICCV 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Exploring_Temporal_Coherence_for_More_General_Video_Face_Forgery_Detection_ICCV_2021_paper.pdf)
 * "ID-Reveal: Identity-aware DeepFake Video Detection", ICCV 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cozzolino_ID-Reveal_Identity-Aware_DeepFake_Video_Detection_ICCV_2021_paper.pdf) [Github](https://github.com/grip-unina/id-reveal)
@@ -187,15 +188,19 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 ### AAAI
 
+* "CMUA-Watermark: A Cross-Model Universal Adversarial Watermark for Combating Deepfakes", AAAI 2022: [Paper](https://arxiv.org/abs/2105.10872)
+* "ADD: Frequency Attention and Multi-View based Knowledge Distillation to Detect Low-Quality Compressed Deepfake Images", AAAI 2022: [Paper](https://arxiv.org/abs/2112.03553)
 * "Domain General Face Forgery Detection by Learning to Weight", AAAI 2021: [Paper](https://www.aaai.org/AAAI21Papers/AAAI-589.SunK.pdf)    [Github](https://github.com/skJack/LTW)
 * "Local Relation Learning for Face Forgery Detection", AAAI 2021: [Paper](https://arxiv.org/pdf/2105.02577.pdf)
 
 ### NIPS
 
+* "WaveFake: A Data Set to Facilitate Audio Deepfake Detection", NIPS 2021: [Paper](https://arxiv.org/abs/2111.02813)
 * "AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection", NIPS 2020: [Paper](https://papers.nips.cc/paper/2020/file/f718499c1c8cef6730f9fd03c8125cab-Paper.pdf)
 
 ### ACM MM
 
+* "Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors", ACM MM 2021: [Paper](https://arxiv.org/abs/2109.02993)
 * "Spatiotemporal Inconsistency Learning for DeepFake Video Detection", ACM MM 2021: [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475508)
 * "Video Transformer for Deepfake Detection with Incremental Learning", ACM MM 2021: [Paper](https://arxiv.org/ftp/arxiv/papers/2108/2108.05307.pdf)
 * "Metric Learning for Anti-Compression Facial Forgery Detection", ACM MM 2021: [Paper](https://arxiv.org/pdf/2103.08397.pdf)
@@ -225,13 +230,14 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 ### Other
 
-* "Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes", WACV 2021: [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Trinh_Interpretable_and_Trustworthy_Deepfake_Detection_via_Dynamic_Prototypes_WACV_2021_paper.pdf)
 * "FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals", TPAMI 2020: [Paper](https://ieeexplore.ieee.org/document/9141516)
+* "One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework", WWW 2021: [Paper](https://arxiv.org/abs/2105.00187)
 * "How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals", IJCB 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9304909)
 * "Deepfake Detection using Spatiotemporal Convolutional Networks", arxiv: [Paper](https://arxiv.org/abs/2006.14749)    [Github](https://github.com/oidelima/Deepfake-Detection)
 * "A Convolutional LSTM based Residual Network for Deepfake Video Detection", arxiv: [Paper](https://arxiv.org/abs/2009.07480)
 * "Spatio-temporal Features for Generalized Detection of Deepfake Videos", submitted to CVIU: [Paper](https://arxiv.org/abs/2010.11844)
 * "Exploiting Visual Artifacts to Expose Deepfakes and Face Manipulations", WACVW 2019: [Paper](https://ieeexplore.ieee.org/document/8638330)
+* "Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes", WACV 2021: [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Trinh_Interpretable_and_Trustworthy_Deepfake_Detection_via_Dynamic_Prototypes_WACV_2021_paper.pdf)
 * "MesoNet: a Compact Facial Video Forgery Detection Network", WIFS 2018: [Paper](https://arxiv.org/abs/1809.00888)    [Github](https://github.com/DariusAf/MesoNet)
 * "Multi-task Learning For Detecting and Segmenting Manipulated Facial Images and Videos", BATS 2019: [Paper](https://arxiv.org/abs/1906.06876)
 * "Use of a Capsule Network to Detect Fake Images and Videos", arxiv: [Paper](https://arxiv.org/abs/1910.12467)
