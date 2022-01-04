@@ -188,6 +188,7 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 ### AAAI
 
+* "Dual Contrastive Learning for General Face Forgery Detection", AAAI 2022: [Paper](https://arxiv.org/abs/2112.13522)
 * "CMUA-Watermark: A Cross-Model Universal Adversarial Watermark for Combating Deepfakes", AAAI 2022: [Paper](https://arxiv.org/abs/2105.10872)
 * "ADD: Frequency Attention and Multi-View based Knowledge Distillation to Detect Low-Quality Compressed Deepfake Images", AAAI 2022: [Paper](https://arxiv.org/abs/2112.03553)
 * "Domain General Face Forgery Detection by Learning to Weight", AAAI 2021: [Paper](https://www.aaai.org/AAAI21Papers/AAAI-589.SunK.pdf)    [Github](https://github.com/skJack/LTW)
