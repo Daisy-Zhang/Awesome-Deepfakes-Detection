@@ -199,6 +199,9 @@ For better comparison and research purpose, we also collect the benchmark of all
 * "WaveFake: A Data Set to Facilitate Audio Deepfake Detection", NIPS 2021: [Paper](https://arxiv.org/abs/2111.02813)
 * "AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection", NIPS 2020: [Paper](https://papers.nips.cc/paper/2020/file/f718499c1c8cef6730f9fd03c8125cab-Paper.pdf)
 
+### ICLR
+* "Responsible Disclosure of Generative Models Using Scalable Fingerprinting", ICLR 2022: [Paper](https://openreview.net/pdf?id=sOK-zS6WHB)
+
 ### ACM MM
 
 * "Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors", ACM MM 2021: [Paper](https://arxiv.org/abs/2109.02993)
