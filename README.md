@@ -236,7 +236,6 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 ### Other
 
-* "FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals", TPAMI 2020: [Paper](https://ieeexplore.ieee.org/document/9141516)
 * "One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework", WWW 2021: [Paper](https://arxiv.org/abs/2105.00187)
 * "How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals", IJCB 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9304909)
 * "Deepfake Detection using Spatiotemporal Convolutional Networks", arxiv: [Paper](https://arxiv.org/abs/2006.14749)    [Github](https://github.com/oidelima/Deepfake-Detection)
