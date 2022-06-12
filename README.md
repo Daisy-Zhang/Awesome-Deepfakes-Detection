@@ -139,6 +139,8 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 ### CVPR
 
+* "CORE: Consistent Representation Learning for Face Forgery Detection", CVPR 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022W/WMF/papers/Ni_CORE_COnsistent_REpresentation_Learning_for_Face_Forgery_Detection_CVPRW_2022_paper.pdf) [Github](https://github.com/niyunsheng/CORE)
+* "DeepFake Disrupter: The Detector of DeepFake Is My Friend", CVPR 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_DeepFake_Disrupter_The_Detector_of_DeepFake_Is_My_Friend_CVPR_2022_paper.pdf)
 * "Protecting Celebrities from DeepFake with Identity Consistency Transformer", CVPR 2022: [Paper](https://arxiv.org/abs/2203.01318v3) [Github](https://github.com/LightDXY/ICT_DeepFake)
 
 * "Detecting Deepfakes with Self-Blended Images", CVPR 2022: [Paper](https://arxiv.org/abs/2204.08376) [Github](https://github.com/mapooon/SelfBlendedImages)
