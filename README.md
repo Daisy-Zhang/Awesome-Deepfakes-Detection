@@ -261,6 +261,7 @@ For better comparison and research purpose, we also collect the benchmark of all
 * "Metamorphic Testing-based Adversarial Attack to Fool Deepfake Detectors", ICPR 2022: [Paper](https://arxiv.org/abs/2204.08612)
 * "Generalized Facial Manipulation Detection with Edge Region Feature Extraction", WACV 2022: [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Kim_Generalized_Facial_Manipulation_Detection_With_Edge_Region_Feature_Extraction_WACV_2022_paper.pdf)
 * "Supervised Contrastive Learning for Generalizable and Explainable DeepFakes Detection": WACV 2022: [Paper](https://openaccess.thecvf.com/content/WACV2022W/XAI4B/papers/Xu_Supervised_Contrastive_Learning_for_Generalizable_and_Explainable_DeepFakes_Detection_WACVW_2022_paper.pdf)
+* "Deepfake Caricatures: Amplifying attention to artifacts increases deepfake detection by humans and machines", arXiv 2022: [Paper](https://arxiv.org/pdf/2206.00535.pdf)
 * "Seeing is Living? Rethinking the Security of Facial Liveness Verification in the Deepfake Era", arXiv 2022: [Paper](https://arxiv.org/pdf/2202.10673.pdf)
 * "FaceSigns: Semi-Fragile Neural Watermarks for Media Authentication and Countering Deepfakes", arXiv 2022: [Paper](https://arxiv.org/pdf/2204.01960.pdf)
 * "Do You Really Mean That? Content Driven Audio-Visual Deepfake Dataset and Multimodal Method for Temporal Forgery Localization", arXiv 2022: [Paper](https://arxiv.org/pdf/2204.06228.pdf)
