@@ -23,7 +23,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
   - [AAAI](#aaai)
   - [NIPS](#nips)
   - [ICLR](#iclr)
-  - [ACM MM](#acm-mm)
+  - [MM](#mm)
   - [ICME](#icme)
   - [TPAMI](#tpami)
   - [TIFS](#tifs)
@@ -225,7 +225,7 @@ For better comparison and research purpose, we also collect the benchmark of all
 ### ICLR
 * "Responsible Disclosure of Generative Models Using Scalable Fingerprinting", ICLR 2022: [Paper](https://openreview.net/pdf?id=sOK-zS6WHB)
 
-### ACM MM
+### MM
 
 * "Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors", ACM MM 2021: [Paper](https://arxiv.org/abs/2109.02993)
 * "Spatiotemporal Inconsistency Learning for DeepFake Video Detection", ACM MM 2021: [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475508)
