@@ -179,7 +179,6 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 * "Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data" ICCV 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Artificial_Fingerprinting_for_Generative_Models_Rooting_Deepfake_Attribution_in_Training_ICCV_2021_paper.pdf) [Github](https://github.com/ningyu1991/ArtificialGANFingerprints)
 * "KoDF: A Large-scale Korean DeepFake Detection Dataset", ICCV 2021: [Paper](https://arxiv.org/abs/2103.10094)
-* "Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data", ICCV 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Artificial_Fingerprinting_for_Generative_Models_Rooting_Deepfake_Attribution_in_Training_ICCV_2021_paper.pdf)
 * "Exploring Temporal Coherence for More General Video Face Forgery Detection", ICCV 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Exploring_Temporal_Coherence_for_More_General_Video_Face_Forgery_Detection_ICCV_2021_paper.pdf)
 * "ID-Reveal: Identity-aware DeepFake Video Detection", ICCV 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cozzolino_ID-Reveal_Identity-Aware_DeepFake_Video_Detection_ICCV_2021_paper.pdf) [Github](https://github.com/grip-unina/id-reveal)
 * "Joint Audio-Visual Deepfake Detection", ICCV 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)
