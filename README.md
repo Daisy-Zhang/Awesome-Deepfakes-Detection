@@ -197,6 +197,8 @@ For better comparison and research purpose, we also collect the benchmark of all
 
 ### IJCAI
 
+* "Region-Aware Temporal Inconsistency Learning for DeepFake Video Detection", IJCAI 2022: [Paper](https://www.ijcai.org/proceedings/2022/0129.pdf)
+* "Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations", IJCAI 2022: [Paper](https://www.ijcai.org/proceedings/2022/0107.pdf)
 * "Detecting Deepfake Videos with Temporal Dropout 3DCNN", IJCAI 2021: [Paper](https://www.ijcai.org/proceedings/2021/0178.pdf)
 * "Dynamic Inconsistency-aware DeepFake Video Detection", IJCAI 2021: [Paper](https://www.ijcai.org/proceedings/2021/0102.pdf)
 * "An Examination of Fairness of AI Models for Deepfake Detection", IJCAI 2021: [Paper](https://www.ijcai.org/proceedings/2021/0079.pdf)
