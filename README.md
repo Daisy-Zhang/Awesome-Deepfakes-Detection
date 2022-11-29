@@ -189,7 +189,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 * WaveFake: A Data Set to Facilitate Audio Deepfake Detection, NIPS 2021: [Paper](https://arxiv.org/abs/2111.02813)
 * AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection, NIPS 2020: [Paper](https://papers.nips.cc/paper/2020/file/f718499c1c8cef6730f9fd03c8125cab-Paper.pdf)
 
-### ICLR----------
+### ICLR
 
 * Responsible Disclosure of Generative Models Using Scalable Fingerprinting, ICLR 2022: [Paper](https://openreview.net/pdf?id=sOK-zS6WHB)
 
@@ -222,6 +222,9 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ### MM
 
+* Wavelet-enhanced Weakly Supervised Local Feature Learning for Face Forgery Detection, ACM MM 2022: [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547832)
+* Defeating DeepFakes via Adversarial Visual Reconstruction, ACM MM 2022: [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547923)
+
 * Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors, ACM MM 2021: [Paper](https://arxiv.org/abs/2109.02993)
 * Spatiotemporal Inconsistency Learning for DeepFake Video Detection, ACM MM 2021: [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475508)
 * Video Transformer for Deepfake Detection with Incremental Learning, ACM MM 2021: [Paper](https://arxiv.org/ftp/arxiv/papers/2108/2108.05307.pdf)
@@ -234,7 +237,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 * DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms, ACM MM 2020: [Paper](https://dl.acm.org/doi/10.1145/3394171.3413707)
 * Emotions Don't Lie: An Audio-Visual Deepfake Detection Method using Affective Cues, ACM MM 2020: [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413570)
 
-### Others
+### Others----------
 
 * DeepFake Detection Based on Discrepancies Between Faces and their Context, TPAMI 2021: [Paper](https://ieeexplore.ieee.org/document/9468380/)
 * FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals, TPAMI 2021: [Paper](https://ieeexplore.ieee.org/document/9141516/)
