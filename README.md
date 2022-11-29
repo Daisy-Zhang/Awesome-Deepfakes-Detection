@@ -24,14 +24,9 @@ This repo only collect papers related to Deepfake Detection. If you are also int
   - [AAAI](#aaai)
   - [MM](#mm)
   - [Others](#others)
-- Image-level Detection
-  - Artifact based
-  - Frequency based
-
-- Video-level Detection
-  - Spatial-temporal based
-  - Multi-modal based
-
+- Frequency based
+- Spatiotemporal based
+- Multi-modal based
 - Anomaly Detection
 - Biological Signal
 - Forgery Area Localization
@@ -285,3 +280,155 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 * DeepFake-o-meter: An Open Platform for DeepFake Detection, SP Workshops 2021: [Paper](https://arxiv.org/abs/2103.02018)
 * DeepfakeUCL: Deepfake Detection via Unsupervised Contrastive Learning, IJCNN 2021: [Paper](https://arxiv.org/abs/2104.11507)
 * M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection, CoRR 2021: [Paper](https://arxiv.org/abs/2104.09770)
+
+
+
+### Frequency based
+
+* FrePGAN: Robust Deepfake Detection Using Frequency-level Perturbations, AAAI 2022: [Paper](https://arxiv.org/abs/2202.03347)
+* ADD: Frequency Attention and Multi-View based Knowledge Distillation to Detect Low-Quality Compressed Deepfake Images, AAAI 2021: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/19886)
+* Local Relation Learning for Face Forgery Detection, AAAI 2021: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16193)
+* Wavelet-enhanced Weakly Supervised Local Feature Learning for Face Forgery Detection, ACM MM 2022: [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547832?casa_token=oraWUVtg5_kAAAAA:eTzTx_cWo52kQAlF5zl3DH3-OSUtIMPW2AzsUvzI3Z7-yap6senuP34HvbbBGz1TtP-ARFFBWzQaXjc)
+* Generalizing Face Forgery Detection with High-frequency Features, *CVPR* 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Generalizing_Face_Forgery_Detection_With_High-Frequency_Features_CVPR_2021_paper.html)
+* Effective and Fast DeepFake Detection Method Based on Haar Wavelet Transform, *CSASE* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9142077/)
+* Using Grayscale Frequency Statistic to Detect Manipulated Faces in Wavelet-Domain, *SMC* 2021: [Paper](https://ieeexplore.ieee.org/abstract/document/9658971/)
+* Wavelet-Packets for Deepfake Image Analysis and Detection, *Machine Learning* 2022: [Paper](https://link.springer.com/article/10.1007/s10994-022-06225-5)
+* Deepfake Video Detection Based on Spatial, Spectral, and Temporal Inconsistencies Using Multimodal Deep Learning, *AIPR* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9425167/)
+* Fighting Deepfakes by Detecting GAN DCT Anomalies, *Journal of Imaging* 2021: [Paper](https://www.mdpi.com/2313-433X/7/8/128)
+* MD-CSDNetwork: Multi-Domain Cross Stitched Network for Deepfake Detection, *FG* 2021: [Paper](https://ieeexplore.ieee.org/abstract/document/9666937/)
+
+
+
+### Spatiotemporal based
+
+* Region-Aware Temporal Inconsistency Learning for DeepFake Video Detection, *IJCAI* 2022: [Paper](https://www.ijcai.org/proceedings/2022/0129.pdf)
+* Deepfake Video Detection Based on Spatial, Spectral, and Temporal Inconsistencies Using Multimodal Deep Learning, *AIPR* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9425167/)
+
+
+
+### Multi-modal based
+
+* Deepfake Video Detection Based on Spatial, Spectral, and Temporal Inconsistencies Using Multimodal Deep Learning, *AIPR* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9425167/)
+
+
+
+### Anomaly Detection
+
+* SeeABLE: Soft Discrepancies and Bounded Contrastive Learning for Exposing Deepfakes, *arXiv* 2022: [Paper](https://arxiv.org/abs/2211.11296)
+* Differential Anomaly Detection for Facial Images, *WIFS* 2021: [Paper](https://ieeexplore.ieee.org/abstract/document/9648392/)
+* Fighting Deepfakes by Detecting GAN DCT Anomalies, *Journal of Imaging* 2021: [Paper](https://www.mdpi.com/2313-433X/7/8/128)
+* Learning Second Order Local Anomaly for General Face Forgery Detection, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Fei_Learning_Second_Order_Local_Anomaly_for_General_Face_Forgery_Detection_CVPR_2022_paper.html)
+
+
+
+### Biological Signal
+
+* Predicting Heart Rate Variations of Deepfake Videos using Neural ODE, *ICCVW* 2019: [Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVPM/Fernandes_Predicting_Heart_Rate_Variations_of_Deepfake_Videos_using_Neural_ODE_ICCVW_2019_paper.pdf)
+* Benchmarking Joint Face Spoofing and Forgery Detection with Visual and Physiological Cues, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.05401)
+* Visual Representations of Physiological Signals for Fake Video Detection, *arXiv* 2022: [Paper](https://arxiv.org/abs/2207.08380)
+* How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals, *IJCB* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9304909/)
+* Study of detecting behavioral signatures within DeepFake videos, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.03561)
+* DeepFakesON-Phys: DeepFakes Detection based on Heart Rate Estimation, *arXiv* 2020: [Paper](https://arxiv.org/abs/2010.00400)
+* Exposing Deepfake with Pixel-wise Autoregressive and PPG Correlation from Faint Signals, *arXiv* 2021: [Paper](https://arxiv.org/abs/2110.15561)
+* Countering Spoof: Towards Detecting Deepfake with Multidimensional Biological Signals, *Security and Communication Networks* 2021: [Paper](https://www.hindawi.com/journals/scn/2021/6626974/)
+* A Study on Effective Use of BPM Information in Deepfake Detection, *ICTC* 2021: [Paper](https://ieeexplore.ieee.org/abstract/document/9621186/)
+* FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals, *TPAMI* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9141516/)
+
+
+
+### Forgery Area Localization
+
+* Region-Aware Temporal Inconsistency Learning for DeepFake Video Detection, *IJCAI* 2022: [Paper](https://www.ijcai.org/proceedings/2022/0129.pdf)
+* Exploring Spatial-Temporal Features for Deepfake Detection and Localization, *arXiv* 2022: [Paper](https://arxiv.org/abs/2210.15872)
+
+* Exposing Face Forgery Clues via Retinex-based Image Enhancement, *ACCV* 2022: [Paper](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Exposing_Face_Forgery_Clues_via_Retinex-based_Image_Enhancement_ACCV_2022_paper.html)
+* Dlfmnet: End-to-end detection and localization of face manipulation using multi-domain features, *ICME* 2021: [Paper](https://ieeexplore.ieee.org/abstract/document/9428450/)
+* Face X-ray for More General Face Forgery Detection, *CVPR* 2020: [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Face_X-Ray_for_More_General_Face_Forgery_Detection_CVPR_2020_paper.pdf)
+
+
+
+### Generalization
+
+* Training Strategies and Data Augmentations in CNN-based DeepFake Video Detection, *WIFS* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9360901/)
+* Towards Generalizable Detection of Face Forgery via Self-Guided Model-Agnostic Learning, *PRL* 2022: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S016786552200201X)
+* One detector to rule them all: Towards a general deepfake attack detection framework, *Proceedings of the Web Conference* 2021: [Paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449809?casa_token=crn0KT6LWoQAAAAA:RwAD4Bpvgg5EHw8L4zWqBqXk6C4keR0xKVYi7uKZ0Of3XGuD0XM_GKa8NkfZrd0o9N-DpTmRJpGRTng)
+* Improving Generalization of Deepfake Detection with Domain Adaptive Batch Normalization, *Proceedings of the 1st International Workshop on Adversarial Learning for Multimedia* 2021: [Paper](https://dl.acm.org/doi/abs/10.1145/3475724.3483603?casa_token=95Lx_7qewaIAAAAA:Ojo9yoSZfwqQ63ftNiuRMpicl1C9qn0mWiHUyc_rM6lT_T46pUpn5hak9Bp-NwIUhovmb_XBiXS9aDI)
+* FeatureTransfer: Unsupervised Domain Adaptation for Cross-Domain Deepfake Detection, *Security and Communication Networks* 2021: [Paper](https://www.hindawi.com/journals/scn/2021/9942754/)
+* Supervised Contrastive Learning for Generalizable and Explainable DeepFakes Detection, *WACV* 2021: [Paper](https://openaccess.thecvf.com/content/WACV2022W/XAI4B/html/Xu_Supervised_Contrastive_Learning_for_Generalizable_and_Explainable_DeepFakes_Detection_WACVW_2022_paper.html)
+* FReTAL: Generalizing Deepfake Detection using Knowledge Distillation and Representation Learning, *CVPR* 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021W/WMF/html/Kim_FReTAL_Generalizing_Deepfake_Detection_Using_Knowledge_Distillation_and_Representation_Learning_CVPRW_2021_paper.html)
+* Improved Generalizability of Deep-Fakes Detection Using Transfer Learning Based CNN Framework, *ICICT* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9092019/)
+
+
+
+### Interpretability
+
+* Explaining Deepfake Detection by Analysing Image Matching, *ECCV* 2022: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_2)
+* What’s wrong with this video? Comparing Explainers for Deepfake Detection, *arXiv* 2021: [Paper](https://arxiv.org/abs/2105.05902)
+
+* Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors, *arXiv* 2022: [Paper](https://arxiv.org/abs/2210.03683)
+* Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes, *WACV* 2021: [Paper](https://openaccess.thecvf.com/content/WACV2021/html/Trinh_Interpretable_and_Trustworthy_Deepfake_Detection_via_Dynamic_Prototypes_WACV_2021_paper.html)
+* Supervised Contrastive Learning for Generalizable and Explainable DeepFakes Detection, *WACV* 2021: [Paper](https://openaccess.thecvf.com/content/WACV2022W/XAI4B/html/Xu_Supervised_Contrastive_Learning_for_Generalizable_and_Explainable_DeepFakes_Detection_WACVW_2022_paper.html)
+
+
+
+### Fairness
+
+* An Examination of Fairness of AI Models for Deepfake Detection, IJCAI 2021: [Paper](https://www.ijcai.org/proceedings/2021/0079.pdf)
+* A Comprehensive Analysis of AI Biases in DeepFake Detection With Massively Annotated Databases, arxiv 2022: [Paper](https://arxiv.org/abs/2208.05845)
+* GBDF: Gender Balanced DeepFake Dataset Towards Fair DeepFake Detection, ICPR 2022: [Paper](https://arxiv.org/abs/2207.10246)
+
+
+
+### Source Model Architecture
+
+* Deepfake Network Architecture Attribution, AAAI 2022: [Paper](https://arxiv.org/abs/2202.13843)
+* How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals, *IJCB* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9304909/)
+
+
+
+### Fingerprint/Watermark
+
+* Responsible disclosure of generative models using scalable fingerprinting, arXiv 2020: [Paper](https://arxiv.org/abs/2012.08726)
+
+* CMUA-Watermark: A Cross-Model Universal AdversarialWatermark for Combating Deepfakes, AAAI 2022: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/19982)
+* FaceSigns: Semi-Fragile Neural Watermarks for Media Authentication and Countering Deepfakes, arXiv 2022: [Paper](https://arxiv.org/abs/2204.01960)
+* Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations, arXiv 2022: [Paper](https://arxiv.org/abs/2206.00477)
+* System Fingerprints Detection for DeepFake Audio: An Initial Dataset and Investigation, arXiv 2022: [Paper](https://arxiv.org/abs/2208.10489)
+* Defeating DeepFakes via Adversarial Visual Reconstruction, ACM MM 2022: [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547923?casa_token=ZM9dDIwll78AAAAA:BELSycUIPfukaK-ffgIq8bBY7UKm52-gS1yfunR86wwL5uBCFIVtgEeIQnTahZgW1pPGR67rxotieoo)
+* FingerprintNet: Synthesized Fingerprints for Generated Image Detection, ECCV 2022: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_5)
+* Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data, ICCV 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_Artificial_Fingerprinting_for_Generative_Models_Rooting_Deepfake_Attribution_in_Training_ICCV_2021_paper.html)
+
+
+
+### Identity-specific Detection
+
+* Study of detecting behavioral signatures within DeepFake videos, arxiv 2022: [Paper](https://arxiv.org/abs/2208.03561)
+
+
+
+### Self-supervised Detection
+
+
+
+### In the Wild Detection
+
+
+
+### Model Attribution
+
+
+
+### Federated Learning
+
+* FedForgery: Generalized Face Forgery Detection with Residual Federated Learning, *arXiv* 2022: [Paper](https://arxiv.org/abs/2210.09563)
+
+
+
+### Knowledge Distillation
+
+
+
+### Survey
+
+
+
