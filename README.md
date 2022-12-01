@@ -11,13 +11,13 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 - [Datasets](#datasets)
 - [Competition](#competition)
 - [Tools](#tools)
-- [Recent Conference Papers](#conference-papers)
+- [Recent Conference Papers](#recent-conference-papers)
 - [Survey](#survey)
 - [Spatiotemporal based](#spatiotemporal-based)
 - [Frequency based](#frequency-based)
 - [Generalization](#generalization)
 - [Interpretability](#interpretability)
-- [Human-Detection](#human-detection)
+- [Human-Decision](#human-decision)
 - [Localization](#localization)
 - [Multi-modal based](#multi-modal-based)
 - [Biological Signal](#biological-signal)
@@ -170,14 +170,14 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 ### NIPS
 
 * Delving into Sequential Patches for Deepfake Detection, *NIPS* 2022: [Paper](https://openreview.net/forum?id=osPA8Bs4MJB)
-* OST: Improving Generalization of DeepFake Detection via One-Shot Test-Time Training, *NIPS* 2022: [Paper](https://openreview.net/forum?id=YPoRoad6gzY)
+* OST: Improving Generalization of DeepFake Detection via One-Shot Test-Time Training, *NIPS* 2022: [Paper](https://openreview.net/forum?id=YPoRoad6gzY) [Github](https://github.com/liangchen527/OST)
 
-* WaveFake: A Data Set to Facilitate Audio Deepfake Detection, *NIPS* 2021: [Paper](https://arxiv.org/abs/2111.02813)
+* WaveFake: A Data Set to Facilitate Audio Deepfake Detection, *NIPS* 2021: [Paper](https://arxiv.org/abs/2111.02813) [Github](https://github.com/RUB-SysSec/WaveFake)
 * AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection, *NIPS* 2020: [Paper](https://papers.nips.cc/paper/2020/file/f718499c1c8cef6730f9fd03c8125cab-Paper.pdf)
 
 ### ICLR
 
-* Responsible Disclosure of Generative Models Using Scalable Fingerprinting, *ICLR* 2022: [Paper](https://openreview.net/pdf?id=sOK-zS6WHB)
+* Responsible Disclosure of Generative Models Using Scalable Fingerprinting, *ICLR* 2022: [Paper](https://openreview.net/pdf?id=sOK-zS6WHB) [Github](https://github.com/ningyu1991/ScalableGANFingerprints)
 
 ### ICML
 
@@ -186,7 +186,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 ### IJCAI
 
 * Region-Aware Temporal Inconsistency Learning for DeepFake Video Detection, *IJCAI* 2022: [Paper](https://www.ijcai.org/proceedings/2022/0129.pdf)
-* Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations, *IJCAI* 2022: [Paper](https://www.ijcai.org/proceedings/2022/0107.pdf)
+* Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations, *IJCAI* 2022: [Paper](https://www.ijcai.org/proceedings/2022/0107.pdf) [Github](https://github.com/AbstractTeen/AntiForgery)
 * Detecting Deepfake Videos with Temporal Dropout 3DCNN, *IJCAI* 2021: [Paper](https://www.ijcai.org/proceedings/2021/0178.pdf)
 * Dynamic Inconsistency-aware DeepFake Video Detection, *IJCAI* 2021: [Paper](https://www.ijcai.org/proceedings/2021/0102.pdf)
 * An Examination of Fairness of AI Models for Deepfake Detection, *IJCAI* 2021: [Paper](https://www.ijcai.org/proceedings/2021/0079.pdf)
@@ -196,9 +196,9 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 ### AAAI
 
 * Delving into the Local: Dynamic Inconsistency Learning for DeepFake Video Detection, *AAAI* 2022: [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1978.GuZ.pdf)
-* Deepfake Network Architecture Attribution, *AAAI* 2022: [Paper](https://arxiv.org/abs/2202.13843)
+* Deepfake Network Architecture Attribution, *AAAI* 2022: [Paper](https://arxiv.org/abs/2202.13843) [Github](https://github.com/ICTMCG/DNA-Det)
 * Dual Contrastive Learning for General Face Forgery Detection, *AAAI* 2022: [Paper](https://arxiv.org/abs/2112.13522)
-* CMUA-Watermark: A Cross-Model Universal Adversarial Watermark for Combating Deepfakes, *AAAI* 2022: [Paper](https://arxiv.org/abs/2105.10872)
+* CMUA-Watermark: A Cross-Model Universal Adversarial Watermark for Combating Deepfakes, *AAAI* 2022: [Paper](https://arxiv.org/abs/2105.10872) [Github](https://github.com/VDIGPKU/CMUA-Watermark)
 * ADD: Frequency Attention and Multi-View based Knowledge Distillation to Detect Low-Quality Compressed Deepfake Images, *AAAI* 2022: [Paper](https://arxiv.org/abs/2112.03553)
 * Exploiting Fine-grained Face Forgery Clues via Progressive Enhancement Learning, *AAAI* 2022: [Paper](https://arxiv.org/pdf/2112.13977.pdf)
 * FInfer: Frame Inference-based Deepfake Detection for High-Visual-Quality Videos, *AAAI* 2022: [Paper](https://www.aaai.org/AAAI22Papers/AAAI-3317.HuJ.pdf)
