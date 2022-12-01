@@ -9,7 +9,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 ## Contents
 
 - [Datasets](#datasets)
-- [Competition](#competition)
+- [Competitions](#competitions)
 - [Tools](#tools)
 - [Recent Conference Papers](#recent-conference-papers)
 - [Survey](#survey)
@@ -22,7 +22,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 - [Multi-modal based](#multi-modal-based)
 - [Biological Signal](#biological-signal)
 - [Fairness](#fairness)
-- [Fingerprint/Watermark](#fingerprint/watermark)
+- [Fingerprint&Watermark](#fingerprint-watermark)
 - [Identity-specific](#identity-specific)
 - [Real Scenario](#real-scenario)
 - [Anomaly Detection](#anomaly-detection)
@@ -88,7 +88,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 
 
-## Competition
+## Competitions
 
 |              Name               |                             Link                             | Year |                             Note                             |
 | :-----------------------------: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: |
@@ -356,7 +356,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 
 
-## Fingerprint/Watermark
+## Fingerprint-Watermark
 
 * DeepFake Disrupter: The Detector of DeepFake Is My Friend, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_DeepFake_Disrupter_The_Detector_of_DeepFake_Is_My_Friend_CVPR_2022_paper.html)
 * FingerprintNet: Synthesized Fingerprints for Generated Image Detection, *ECCV* 2022: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_5)
