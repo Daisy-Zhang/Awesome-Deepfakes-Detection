@@ -227,7 +227,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ## Survey
 
-* Deepfake: Denitions, Performance Metrics and Standards, Datasets and Benchmarks, and a Meta-Review, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.10913)
+* Deepfake: Definitions, Performance Metrics and Standards, Datasets and Benchmarks, and a Meta-Review, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.10913)
 * Deepfakes Generation and Detection: State-of-the-art, open challenges, countermeasures, and way forward, *Applied Intelligence* 2022: [Paper](https://link.springer.com/article/10.1007/s10489-022-03766-z)
 * DeepFake Detection for Human Face Images and Videos: A Survey, *IEEE Access* 2022: [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9712265)
 * Deepfake Detection: A Systematic Literature Review, *IEEE Access* 2022: [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9721302)
