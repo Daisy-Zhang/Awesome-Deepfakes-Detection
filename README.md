@@ -27,7 +27,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 - [Real Scenario](#real-scenario)
 - [Anomaly Detection](#anomaly-detection)
 - [Self-supervised](#self-supervised)
-- [Model Attribution](#model-attribution)
+- [Source Identification](#source-identification)
 - [Multiclass](#multiclass)
 - [Federated Learning](#federated-learning)
 - [Knowledge Distillation](#knowledge-distillation)
@@ -431,12 +431,14 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 
 
-## Model Attribution
+## Source Identification
 
 * Deepfake Network Architecture Attribution, *AAAI* 2022: [Paper](https://aaai-2022.virtualchair.net/poster_aaai4380) [Github](https://github.com/ICTMCG/DNA-Det)
+* Model Attribution of Face-swap Deepfake Videos, *ICIP* 2022: [Paper](https://ieeexplore.ieee.org/document/9897972)
+* Towards Discovery and Attribution of Open-world GAN Generated Images, *ICCV* 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Girish_Towards_Discovery_and_Attribution_of_Open-World_GAN_Generated_Images_ICCV_2021_paper.pdf)
 * Improving Generalization of Deepfake Detection by Training for Attribution, *MMSP* 2021: [Paper](https://ieeexplore.ieee.org/abstract/document/9733468/)
 * How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals, *IJCB* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9304909/)
-
+* Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints, *ICCV* 2019: [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_GAN_Fingerprints_ICCV_2019_paper.pdf)
 
 
 ## Multiclass
