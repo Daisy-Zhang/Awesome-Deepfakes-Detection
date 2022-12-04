@@ -28,7 +28,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 - [Real Scenario](#real-scenario)
 - [Anomaly Detection](#anomaly-detection)
 - [Self-supervised](#self-supervised)
-- [Source Identification](#source-identification)
+- [Source Model Attribution](#source-model-attribution)
 - [Multiclass](#multiclass)
 - [Federated Learning](#federated-learning)
 - [Knowledge Distillation](#knowledge-distillation)
@@ -446,7 +446,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 
 
-## Source Identification
+## Source Model Attribution
 
 * Deepfake Network Architecture Attribution, *AAAI* 2022: [Paper](https://aaai-2022.virtualchair.net/poster_aaai4380) [Github](https://github.com/ICTMCG/DNA-Det)
 * Model Attribution of Face-swap Deepfake Videos, *ICIP* 2022: [Paper](https://ieeexplore.ieee.org/document/9897972)
