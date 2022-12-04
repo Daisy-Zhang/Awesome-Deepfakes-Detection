@@ -24,6 +24,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 - [Fairness](#fairness)
 - [Fingerprint&Watermark](#fingerprint-watermark)
 - [Identity-specific](#identity-specific)
+- [Adversarial Attack](#adversarial-attack)
 - [Real Scenario](#real-scenario)
 - [Anomaly Detection](#anomaly-detection)
 - [Self-supervised](#self-supervised)
@@ -391,11 +392,24 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 
 
+## Adversarial Attack
+
+* Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection, *CVPR* 2022: [Paper](https://arxiv.org/abs/2203.12208) [Github](https://github.com/liangchen527/SLADD)
+* Exploring Frequency Adversarial Attacks for Face Forgery Detection, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Exploring_Frequency_Adversarial_Attacks_for_Face_Forgery_Detection_CVPR_2022_paper.pdf)
+* TAFIM: Targeted Adversarial Attacks against Facial Image Manipulations, *ECCV* 2022: [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740053.pdf) [Github](https://github.com/shivangi-aneja/TAFIM)
+* Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations, *IJCAI* 2022: [Paper](https://www.ijcai.org/proceedings/2022/0107.pdf) [Github](https://github.com/AbstractTeen/AntiForgery/)
+* Investigate Evolutionary Strategies for Black-box Attacks to Deepfake Forensic Systems, *SoICT* 2022: [Paper](https://dl.acm.org/doi/pdf/10.1145/3568562.3568666)
+* Evaluating Robustness of Sequence-based Deepfake Detector Models by Adversarial Perturbation, *WDC* 2022: [Paper](https://dl.acm.org/doi/abs/10.1145/3494109.3527194)
+* Restricted Black-box Adversarial Attack Against DeepFake Face Swapping, *CoRR* 2022: [Paper](https://arxiv.org/abs/2204.12347)
+
+
+
 ## Real Scenario
 
 * Robust Image Forgery Detection Against Transmission Over Online Social Networks, *TIFS* 2022: [Paper](https://ieeexplore.ieee.org/abstract/document/9686650/) [Github](https://github.com/HighwayWu/ImageForensicsOSN)
 * Am I a Real or Fake Celebrity? Evaluating Face Recognition and Verification APIs under Deepfake Impersonation Attack, *Proceedings of the ACM Web Conference* 2022: [Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512212?casa_token=1exG7H-Zf5gAAAAA:bjJAkJKfAP8Ls7ohbQc3PyaTe8s_j_C-8QCca4INNw3eFWxhltDGvsSF7s_D-uVHdsapMJ4II5shIp4) [Github](https://github.com/shahroztariq/Deepfake_Impersonation_Attack)
 * DeSI: Deepfake Source Identifier for Social Media, *CVPR Workshop* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/html/Narayan_DeSI_Deepfake_Source_Identifier_for_Social_Media_CVPRW_2022_paper.html)
+* Investigate Evolutionary Strategies for Black-box Attacks to Deepfake Forensic Systems, *SoICT* 2022: [Paper](https://dl.acm.org/doi/pdf/10.1145/3568562.3568666)
 * Seeing is Living? Rethinking the Security of Facial Liveness Verification in the Deepfake Era, *CoRR* 2022: [Paper](https://www.usenix.org/conference/usenixsecurity22/presentation/li-changjiang)
 * DeFakePro: Decentralized DeepFake Attacks Detection using ENF Authentication, *arXiv* 2022: [Paper](https://arxiv.org/abs/2207.13070)
 * DF-Captcha: A Deepfake Captcha for Preventing Fake Calls, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.08524)
@@ -439,6 +453,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 * Improving Generalization of Deepfake Detection by Training for Attribution, *MMSP* 2021: [Paper](https://ieeexplore.ieee.org/abstract/document/9733468/)
 * How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals, *IJCB* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9304909/)
 * Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints, *ICCV* 2019: [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_GAN_Fingerprints_ICCV_2019_paper.pdf)
+
 
 
 ## Multiclass
