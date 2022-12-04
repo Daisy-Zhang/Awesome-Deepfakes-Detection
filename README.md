@@ -290,6 +290,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 ## Interpretability
 
 * Explaining Deepfake Detection by Analysing Image Matching, *ECCV* 2022: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_2)
+* Detecting and Recovering Sequential DeepFake Manipulation, *ECCV* 2022: [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730710.pdf) [Github](https://github.com/rshaojimmy/SeqDeepFake)
 * Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors, *arXiv* 2022: [Paper](https://arxiv.org/abs/2210.03683)
 * Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes, *WACV* 2021: [Paper](https://openaccess.thecvf.com/content/WACV2021/html/Trinh_Interpretable_and_Trustworthy_Deepfake_Detection_via_Dynamic_Prototypes_WACV_2021_paper.html)
 * Supervised Contrastive Learning for Generalizable and Explainable DeepFakes Detection, *WACV* 2021: [Paper](https://openaccess.thecvf.com/content/WACV2022W/XAI4B/html/Xu_Supervised_Contrastive_Learning_for_Generalizable_and_Explainable_DeepFakes_Detection_WACVW_2022_paper.html) [Github](https://github.com/xuyingzhongguo/deepfake_supcon)
