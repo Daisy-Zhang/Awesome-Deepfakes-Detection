@@ -244,6 +244,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 * Delving into the Local: Dynamic Inconsistency Learning for DeepFake Video Detection, *AAAI* 2022: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/19955)
 * Deepfake video detection with spatiotemporal dropout transformer, *ACM MM* 2022: [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547913)
 * Exploring Complementarity of Global and Local Spatiotemporal Information for Fake Face Video Detection, *ICASSP* 2022: [Paper](https://ieeexplore.ieee.org/abstract/document/9746061/)
+* Face Forgery Detection Based on Facial Region Displacement Trajectory Series, *arXiv* 2022: [Paper](https://arxiv.org/abs/2212.03678)
 * Do You Really Mean That? Content Driven Audio-Visual Deepfake Dataset and Multimodal Method for Temporal Forgery Localization, *arXiv* 2022: [Paper](https://arxiv.org/abs/2204.06228)
 * Exploring Temporal Coherence for More General Video Face Forgery Detection, *ICCV* 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zheng_Exploring_Temporal_Coherence_for_More_General_Video_Face_Forgery_Detection_ICCV_2021_paper.html)
 * Detecting Deepfake Videos with Temporal Dropout 3DCNN, *IJCAI* 2021: [Paper](https://www.ijcai.org/proceedings/2021/0178.pdf)
