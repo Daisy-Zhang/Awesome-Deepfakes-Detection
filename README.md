@@ -361,6 +361,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ## Fingerprint-Watermark
 
+* Responsible Disclosure of Generative Models Using Scalable Fingerprinting, *ICLR* 2022: [Paper](https://openreview.net/forum?id=sOK-zS6WHB) [Github](https://github.com/ningyu1991/ScalableGANFingerprints)
 * DeepFake Disrupter: The Detector of DeepFake Is My Friend, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_DeepFake_Disrupter_The_Detector_of_DeepFake_Is_My_Friend_CVPR_2022_paper.html)
 * FingerprintNet: Synthesized Fingerprints for Generated Image Detection, *ECCV* 2022: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_5)
 * CMUA-Watermark: A Cross-Model Universal Adversarial Watermark for Combating Deepfakes, *AAAI* 2022: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/19982) [Github](https://github.com/VDIGPKU/CMUA-Watermark)
@@ -372,8 +373,6 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 * System Fingerprints Detection for DeepFake Audio: An Initial Dataset and Investigation, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.10489)
 * Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data, *ICCV* 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_Artificial_Fingerprinting_for_Generative_Models_Rooting_Deepfake_Attribution_in_Training_ICCV_2021_paper.html) [Github](https://github.com/ningyu1991/ArtificialGANFingerprints)
 * FaceGuard: Proactive Deepfake Detection, *CoRR* 2021: [Paper](https://arxiv.org/pdf/2109.05673v1.pdf)
-* Responsible disclosure of generative models using scalable fingerprinting, *arXiv* 2020: [Paper](https://arxiv.org/abs/2012.08726)
-
 
 
 ## Identity-specific
@@ -451,11 +450,14 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 * Deepfake Network Architecture Attribution, *AAAI* 2022: [Paper](https://aaai-2022.virtualchair.net/poster_aaai4380) [Github](https://github.com/ICTMCG/DNA-Det)
 * Model Attribution of Face-swap Deepfake Videos, *ICIP* 2022: [Paper](https://ieeexplore.ieee.org/document/9897972)
+* On the Exploitation of Deepfake Model Recognition, *CVPR Workshop* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022W/WMF/papers/Guarnera_On_the_Exploitation_of_Deepfake_Model_Recognition_CVPRW_2022_paper.pdf)
+* Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data, *ICCV* 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Artificial_Fingerprinting_for_Generative_Models_Rooting_Deepfake_Attribution_in_Training_ICCV_2021_paper.pdf) [Github](https://github.com/ningyu1991/ArtificialGANFingerprints)
 * Towards Discovery and Attribution of Open-world GAN Generated Images, *ICCV* 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Girish_Towards_Discovery_and_Attribution_of_Open-World_GAN_Generated_Images_ICCV_2021_paper.pdf)
 * Improving Generalization of Deepfake Detection by Training for Attribution, *MMSP* 2021: [Paper](https://ieeexplore.ieee.org/abstract/document/9733468/)
 * How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals, *IJCB* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9304909/)
 * Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints, *ICCV* 2019: [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_GAN_Fingerprints_ICCV_2019_paper.pdf)
-
+* On Attribution of Deepfakes, *arXiv* 2020: [Paper](https://arxiv.org/pdf/2008.09194.pdf)
+* Scalable Fine-grained Generated Image Classification Based on Deep Metric Learning, *CoRR* 2019: [Paper](https://arxiv.org/abs/1912.11082)
 
 
 ## Multiclass
