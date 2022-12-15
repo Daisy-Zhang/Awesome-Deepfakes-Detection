@@ -307,7 +307,6 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 * Understanding Users’ Deepfake Video Verification Strategies, *International Conference on Human-Computer Interaction* 2022: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19682-9_4)
 * Crowd–powered Face Manipulation Detection: Fusing Human Examiner Decisions, *arXiv* 2022: [Paper](https://arxiv.org/abs/2201.13084)
 * Deepfake Caricatures: Amplifying attention to artifacts increases deepfake detection by humans and machines, *arXiv* 2022: [Paper](https://arxiv.org/abs/2206.00535)
-* Deepfake Caricatures: Amplifying attention to artifacts increases deepfake detection by humans and machines, *arXiv* 2022: [Paper](https://arxiv.org/pdf/2206.00535.pdf)
 
 
 
