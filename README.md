@@ -13,26 +13,26 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 - [Tools](#tools)
 - [Recent Conference Papers](#recent-conference-papers)
 - [Survey](#survey)
-- [Spatiotemporal based](#spatiotemporal-based)
-- [Frequency based](#frequency-based)
+- [Spatiotemporal Based](#spatiotemporal-based)
+- [Frequency Based](#frequency-based)
 - [Generalization](#generalization)
 - [Interpretability](#interpretability)
 - [Human-Decision](#human-decision)
 - [Localization](#localization)
-- [Multi-modal based](#multi-modal-based)
+- [Multi-modal Based](#multi-modal-based)
 - [Biological Signal](#biological-signal)
 - [Fairness](#fairness)
-- [Fingerprint&Watermark](#fingerprint-watermark)
-- [Identity-specific](#identity-specific)
+- [Fingerprint and Watermark](#fingerprint-and-watermark)
+- [Identity-Related](#identity-related)
 - [Adversarial Attack](#adversarial-attack)
 - [Real Scenario](#real-scenario)
 - [Anomaly Detection](#anomaly-detection)
-- [Self-supervised](#self-supervised)
+- [Self-Supervised Learning](#self-supervised-learning)
 - [Source Model Attribution](#source-model-attribution)
-- [Multiclass](#multiclass)
+- [Multiclass Classification](#multiclass-classification)
 - [Federated Learning](#federated-learning)
 - [Knowledge Distillation](#knowledge-distillation)
-- [Depth based](#depth-based)
+- [Depth Based](#depth-based)
 
 ## Datasets
 
@@ -236,7 +236,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 
 
-## Spatiotemporal based
+## Spatiotemporal Based
 
 * Hierarchical Contrastive Inconsistency Learning for Deepfake Video Detection, *ECCV* 2022: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_35)
 * Region-Aware Temporal Inconsistency Learning for DeepFake Video Detection, *IJCAI* 2022: [Paper](https://www.ijcai.org/proceedings/2022/0129.pdf)
@@ -254,7 +254,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 
 
-## Frequency based
+## Frequency Based
 
 * FrePGAN: Robust Deepfake Detection Using Frequency-level Perturbations, *AAAI* 2022: [Paper](https://arxiv.org/abs/2202.03347)
 * Exploiting Fine-grained Face Forgery Clues via Progressive Enhancement Learning, *AAAI* 2022: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/19954)
@@ -323,7 +323,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 
 
-## Multi-modal based
+## Multi-modal Based
 
 * M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection, *ICMR* 2022: [Paper](https://dl.acm.org/doi/abs/10.1145/3512527.3531415?casa_token=fV-XMrFj4ecAAAAA:fWI0rX6rKIqX-Zjph6Aesc0_Ak1XfLHfB6GpTXEe-Cik_dEhveSngT62ciCEnPWwYy5uN13jpiTTE-I)
 * Voice-Face Homogeneity Tells Deepfake, *arXiv* 2022: [Paper](https://arxiv.org/abs/2203.02195)
@@ -359,7 +359,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 
 
-## Fingerprint-Watermark
+## Fingerprint and Watermark
 
 * Responsible Disclosure of Generative Models Using Scalable Fingerprinting, *ICLR* 2022: [Paper](https://openreview.net/forum?id=sOK-zS6WHB) [Github](https://github.com/ningyu1991/ScalableGANFingerprints)
 * DeepFake Disrupter: The Detector of DeepFake Is My Friend, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_DeepFake_Disrupter_The_Detector_of_DeepFake_Is_My_Friend_CVPR_2022_paper.html)
@@ -375,7 +375,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 * FaceGuard: Proactive Deepfake Detection, *CoRR* 2021: [Paper](https://arxiv.org/pdf/2109.05673v1.pdf)
 
 
-## Identity-specific
+## Identity-Related
 
 * TI2Net: Temporal Identity Inconsistency Network for Deepfake Detection, *WACV* 2023: [Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Liu_TI2Net_Temporal_Identity_Inconsistency_Network_for_Deepfake_Detection_WACV_2023_paper.pdf)
 * Protecting Celebrities from DeepFake with Identity Consistency Transformer, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Protecting_Celebrities_From_DeepFake_With_Identity_Consistency_Transformer_CVPR_2022_paper.html) [Github](https://github.com/LightDXY/ICT_DeepFake)
@@ -434,7 +434,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 
 
-## Self-supervised
+## Self-Supervised Learning
 
 * End-to-End Reconstruction-Classification Learning for Face Forgery Detection, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Cao_End-to-End_Reconstruction-Classification_Learning_for_Face_Forgery_Detection_CVPR_2022_paper.html)
 * Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Haliassos_Leveraging_Real_Talking_Faces_via_Self-Supervision_for_Robust_Forgery_Detection_CVPR_2022_paper.html)
@@ -462,7 +462,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 * Scalable Fine-grained Generated Image Classification Based on Deep Metric Learning, *CoRR* 2019: [Paper](https://arxiv.org/abs/1912.11082)
 
 
-## Multiclass
+## Multiclass Classification
 
 * Three-classification Face Manipulation Detection Using Attention-based Feature Decomposition, *Computers & Security* 2022: [Paper](https://www.sciencedirect.com/science/article/pii/S0167404822004163)
 * Forgery-Domain-Supervised Deepfake Detection with Non-Negative Constraint, *IEEE Signal Processing Letters* 2022: [Paper](https://ieeexplore.ieee.org/abstract/document/9839430/)
@@ -481,7 +481,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 
 
-## Depth based
+## Depth Based
 
 * DepthFake: a depth-based strategy for detecting Deepfake videos, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.11074)
 
