@@ -304,6 +304,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ## Human-Decision
 
+* Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis, *WACV* 2023: [Paper](https://openaccess.thecvf.com/content/WACV2023W/MAP-A/papers/Mittal_Video_Manipulations_Beyond_Faces_A_Dataset_With_Human-Machine_Analysis_WACVW_2023_paper.pdf)
 * Understanding Users’ Deepfake Video Verification Strategies, *International Conference on Human-Computer Interaction* 2022: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19682-9_4)
 * Crowd–powered Face Manipulation Detection: Fusing Human Examiner Decisions, *arXiv* 2022: [Paper](https://arxiv.org/abs/2201.13084)
 * Deepfake Caricatures: Amplifying attention to artifacts increases deepfake detection by humans and machines, *arXiv* 2022: [Paper](https://arxiv.org/abs/2206.00535)
@@ -376,6 +377,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ## Identity-specific
 
+* TI2Net: Temporal Identity Inconsistency Network for Deepfake Detection, *WACV* 2023: [Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Liu_TI2Net_Temporal_Identity_Inconsistency_Network_for_Deepfake_Detection_WACV_2023_paper.pdf)
 * Protecting Celebrities from DeepFake with Identity Consistency Transformer, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Protecting_Celebrities_From_DeepFake_With_Identity_Consistency_Transformer_CVPR_2022_paper.html) [Github](https://github.com/LightDXY/ICT_DeepFake)
 * Protecting World Leader Using Facial Speaking Pattern Against Deepfakes, *IEEE Signal Processing Letters* 2022: [Paper](https://ieeexplore.ieee.org/abstract/document/9882301/)
 * Protecting world leaders against deep fakes using facial, gestural, and vocal mannerisms, *Proceedings of the National Academy of Sciences*  2022: [Paper](https://www.pnas.org/doi/abs/10.1073/pnas.2216035119)
@@ -406,6 +408,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ## Real Scenario
 
+* A Continual Deepfake Detection Benchmark: Dataset, Methods, and Essentials, *WACV* 2023: [Paper](https://openaccess.thecvf.com/content/WACV2023/supplemental/Li_A_Continual_Deepfake_WACV_2023_supplemental.pdf)
 * Robust Image Forgery Detection Against Transmission Over Online Social Networks, *TIFS* 2022: [Paper](https://ieeexplore.ieee.org/abstract/document/9686650/) [Github](https://github.com/HighwayWu/ImageForensicsOSN)
 * Am I a Real or Fake Celebrity? Evaluating Face Recognition and Verification APIs under Deepfake Impersonation Attack, *Proceedings of the ACM Web Conference* 2022: [Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512212?casa_token=1exG7H-Zf5gAAAAA:bjJAkJKfAP8Ls7ohbQc3PyaTe8s_j_C-8QCca4INNw3eFWxhltDGvsSF7s_D-uVHdsapMJ4II5shIp4) [Github](https://github.com/shahroztariq/Deepfake_Impersonation_Attack)
 * DeSI: Deepfake Source Identifier for Social Media, *CVPR Workshop* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/html/Narayan_DeSI_Deepfake_Source_Identifier_for_Social_Media_CVPRW_2022_paper.html)
