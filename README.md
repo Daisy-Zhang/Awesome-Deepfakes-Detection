@@ -32,6 +32,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 - [Multiclass Classification](#multiclass-classification)
 - [Federated Learning](#federated-learning)
 - [Knowledge Distillation](#knowledge-distillation)
+- [Meta-Learning](#meta-learning)
 - [Depth Based](#depth-based)
 
 ## Datasets
@@ -276,6 +277,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 * Generalized Facial Manipulation Detection with Edge Region Feature Extraction, *WACV* 2022: [Paper](https://openaccess.thecvf.com/content/WACV2022/html/Kim_Generalized_Facial_Manipulation_Detection_With_Edge_Region_Feature_Extraction_WACV_2022_paper.html)
 * Supervised Contrastive Learning for Generalizable and Explainable DeepFakes Detection, *WACV* 2022: [Paper](https://openaccess.thecvf.com/content/WACV2022W/XAI4B/papers/Xu_Supervised_Contrastive_Learning_for_Generalizable_and_Explainable_DeepFakes_Detection_WACVW_2022_paper.pdf) [Github](https://github.com/xuyingzhongguo/deepfake_supcon)
 * Towards Generalizable Detection of Face Forgery via Self-Guided Model-Agnostic Learning, *PRL* 2022: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S016786552200201X)
+* Learning to mask: Towards generalized face forgery detection, *arXiv* 2022: [Paper](https://arxiv.org/abs/2212.14309)
 * FReTAL: Generalizing Deepfake Detection using Knowledge Distillation and Representation Learning, *CVPR* 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021W/WMF/html/Kim_FReTAL_Generalizing_Deepfake_Detection_Using_Knowledge_Distillation_and_Representation_Learning_CVPRW_2021_paper.html)
 * Detection of Fake and Fraudulent Faces via Neural Memory Networks, *TIFS* 2021: [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9309253)
 * One detector to rule them all: Towards a general deepfake attack detection framework, *Proceedings of the Web Conference* 2021: [Paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449809?casa_token=crn0KT6LWoQAAAAA:RwAD4Bpvgg5EHw8L4zWqBqXk6C4keR0xKVYi7uKZ0Of3XGuD0XM_GKa8NkfZrd0o9N-DpTmRJpGRTng) [Github](https://github.com/shahroztariq/CLRNet)
@@ -479,9 +481,12 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 * Confidence-Calibrated Face Image Forgery Detection with Contrastive Representation Distillation, *ACCV* 2022: [Paper](https://openaccess.thecvf.com/content/ACCV2022/html/Yang_Confidence-Calibrated_Face_Image_Forgery_Detection_with_Contrastive_Representation_Distillation_ACCV_2022_paper.html) [Github](https://github.com/Puning97/CDC_face_forgery_detection)
 
+## Meta-Learning
 
+* Domain General Face Forgery Detection by Learning to Weight, *AAAI* 2021: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16367) [Github](https://github.com/skJack/LTW)
 
 ## Depth Based
 
 * DepthFake: a depth-based strategy for detecting Deepfake videos, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.11074)
+* Exploring Depth Information for Face Manipulation Detection, *arXiv* 2022: [Paper](https://arxiv.org/abs/2212.14230)
 
