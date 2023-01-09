@@ -429,6 +429,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ## Anomaly Detection
 
+* Self-Supervised Video Forensics by Audio-Visual Anomaly Detection, *arXiv* 2023: [Paper](https://arxiv.org/abs/2301.01767) [Github](https://github.com/cfeng16/audio-visual-forensics)
 * Learning Second Order Local Anomaly for General Face Forgery Detection, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Fei_Learning_Second_Order_Local_Anomaly_for_General_Face_Forgery_Detection_CVPR_2022_paper.html)
 * SeeABLE: Soft Discrepancies and Bounded Contrastive Learning for Exposing Deepfakes, *arXiv* 2022: [Paper](https://arxiv.org/abs/2211.11296)
 * Differential Anomaly Detection for Facial Images, *WIFS* 2021: [Paper](https://ieeexplore.ieee.org/abstract/document/9648392/)
@@ -438,6 +439,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ## Self-Supervised Learning
 
+* Self-Supervised Video Forensics by Audio-Visual Anomaly Detection, *arXiv* 2023: [Paper](https://arxiv.org/abs/2301.01767) [Github](https://github.com/cfeng16/audio-visual-forensics)
 * End-to-End Reconstruction-Classification Learning for Face Forgery Detection, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Cao_End-to-End_Reconstruction-Classification_Learning_for_Face_Forgery_Detection_CVPR_2022_paper.html)
 * Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Haliassos_Leveraging_Real_Talking_Faces_via_Self-Supervision_for_Robust_Forgery_Detection_CVPR_2022_paper.html)
 * UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for Face Forgery Detection, *ECCV* 2022: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_23)
