@@ -155,6 +155,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 * Joint Audio-Visual Deepfake Detection, *ICCV* 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)
 * OpenForensics: Large-Scale Challenging Dataset For Multi-Face Forgery Detection And Segmentation In-The-Wild, *ICCV* 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Le_OpenForensics_Large-Scale_Challenging_Dataset_for_Multi-Face_Forgery_Detection_and_Segmentation_ICCV_2021_paper.pdf)
 * Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints, *ICCV* 2019: [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_GAN_Fingerprints_ICCV_2019_paper.pdf)    [Github](https://github.com/ningyu1991/GANFingerprints)
+* DeepFake MNIST+: A DeepFake Facial Animation Dataset, *ICCV Workshop* 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021W/AIM/papers/Huang_DeepFake_MNIST_A_DeepFake_Facial_Animation_Dataset_ICCVW_2021_paper.pdf)
 
 ### ECCV
 
