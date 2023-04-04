@@ -114,6 +114,8 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ### CVPR
 
+* Hierarchical Fine-Grained Image Forgery Detection and Localization, *CVPR* 2023: [Paper](https://arxiv.org/abs/2303.17111) [Github](https://github.com/CHELSEA234/HiFi_IFDL)
+* Rethinking Domain Generalization for Face Anti-spoofing: Separability and Alignment, *CVPR* 2023: [Paper](https://arxiv.org/abs/2303.13662) [Github](https://github.com/sunyiyou/SAFAS)
 * Learning Second Order Local Anomaly for General Face Forgery Detection, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Fei_Learning_Second_Order_Local_Anomaly_for_General_Face_Forgery_Detection_CVPR_2022_paper.pdf)
 * DeepFake Disrupter: The Detector of DeepFake Is My Friend, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_DeepFake_Disrupter_The_Detector_of_DeepFake_Is_My_Friend_CVPR_2022_paper.pdf)
 * Protecting Celebrities from DeepFake with Identity Consistency Transformer, *CVPR* 2022: [Paper](https://arxiv.org/abs/2203.01318v3) [Github](https://github.com/LightDXY/ICT_DeepFake)
@@ -275,6 +277,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ## Generalization
 
+* Rethinking Domain Generalization for Face Anti-spoofing: Separability and Alignment, *CVPR* 2023: [Paper](https://arxiv.org/abs/2303.13662) [Github](https://github.com/sunyiyou/SAFAS)
 * Generalized Facial Manipulation Detection with Edge Region Feature Extraction, *WACV* 2022: [Paper](https://openaccess.thecvf.com/content/WACV2022/html/Kim_Generalized_Facial_Manipulation_Detection_With_Edge_Region_Feature_Extraction_WACV_2022_paper.html)
 * Supervised Contrastive Learning for Generalizable and Explainable DeepFakes Detection, *WACV* 2022: [Paper](https://openaccess.thecvf.com/content/WACV2022W/XAI4B/papers/Xu_Supervised_Contrastive_Learning_for_Generalizable_and_Explainable_DeepFakes_Detection_WACVW_2022_paper.pdf) [Github](https://github.com/xuyingzhongguo/deepfake_supcon)
 * Towards Generalizable Detection of Face Forgery via Self-Guided Model-Agnostic Learning, *PRL* 2022: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S016786552200201X)
@@ -316,6 +319,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ## Localization
 
+* Hierarchical Fine-Grained Image Forgery Detection and Localization, *CVPR* 2023: [Paper](https://arxiv.org/abs/2303.17111) [Github](https://github.com/CHELSEA234/HiFi_IFDL)
 * Region-Aware Temporal Inconsistency Learning for DeepFake Video Detection, *IJCAI* 2022: [Paper](https://www.ijcai.org/proceedings/2022/0129.pdf)
 * Exposing Face Forgery Clues via Retinex-based Image Enhancement, *ACCV* 2022: [Paper](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Exposing_Face_Forgery_Clues_via_Retinex-based_Image_Enhancement_ACCV_2022_paper.html)
 * Exploring Spatial-Temporal Features for Deepfake Detection and Localization, *arXiv* 2022: [Paper](https://arxiv.org/abs/2210.15872) [Github](https://github.com/HighwayWu/ST-DDL)
@@ -328,6 +332,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ## Multi-modal Based
 
+* AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake, *TIFS* 2023: [Paper](https://ieeexplore.ieee.org/abstract/document/10081373/)
 * M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection, *ICMR* 2022: [Paper](https://dl.acm.org/doi/abs/10.1145/3512527.3531415?casa_token=fV-XMrFj4ecAAAAA:fWI0rX6rKIqX-Zjph6Aesc0_Ak1XfLHfB6GpTXEe-Cik_dEhveSngT62ciCEnPWwYy5uN13jpiTTE-I)
 * Voice-Face Homogeneity Tells Deepfake, *arXiv* 2022: [Paper](https://arxiv.org/abs/2203.02195)
 * Audio-Visual Person-of-Interest DeepFake Detection, *arXiv* 2022: [Paper](https://arxiv.org/abs/2204.03083) [Github](https://github.com/grip-unina/poi-forensics)
@@ -340,6 +345,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ## Biological Signal
 
+* Local attention and long-distance interaction of rPPG for deepfake detection, *The Visual Computer* 2023: [Paper](https://link.springer.com/article/10.1007/s00371-023-02833-x)
 * Benchmarking Joint Face Spoofing and Forgery Detection with Visual and Physiological Cues, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.05401)
 * Visual Representations of Physiological Signals for Fake Video Detection, *arXiv* 2022: [Paper](https://arxiv.org/abs/2207.08380)
 * Study of detecting behavioral signatures within DeepFake videos, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.03561)
