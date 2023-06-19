@@ -114,6 +114,8 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ### CVPR
 
+* DF-Platter: Multi-Face Heterogeneous Deepfake Dataset, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Narayan_DF-Platter_Multi-Face_Heterogeneous_Deepfake_Dataset_CVPR_2023_paper.pdf)
+* Self-Supervised Video Forensics by Audio-Visual Anomaly Detection, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Self-Supervised_Video_Forensics_by_Audio-Visual_Anomaly_Detection_CVPR_2023_paper.pdf) [Github](https://github.com/cfeng16/audio-visual-forensics)
 * Detecting and Grounding Multi-Modal Media Manipulation, *CVPR* 2023: [Paper](https://arxiv.org/pdf/2304.02556.pdf) [Github](https://github.com/rshaojimmy/MultiModal-DeepFake)
 * Hierarchical Fine-Grained Image Forgery Detection and Localization, *CVPR* 2023: [Paper](https://arxiv.org/abs/2303.17111) [Github](https://github.com/CHELSEA234/HiFi_IFDL)
 * Instance-Aware Domain Generalization for Face Anti-Spoofing, *CVPR* 2023: [Paper](https://arxiv.org/pdf/2304.05640.pdf) [Github](https://github.com/qianyuzqy/IADG)
