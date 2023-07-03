@@ -215,6 +215,9 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 
 ### AAAI
 
+* Deepfake Video Detection via Facial Action Dependencies Estimation, *AAAI* 2023: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25658)
+* Noise Based Deepfake Detection via Multi-Head Relative-Interaction, *AAAI* 2023: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26701)
+* Practical Disruption of Image Translation Deepfake Networks, *AAAI* 2023: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26693)
 * Delving into the Local: Dynamic Inconsistency Learning for DeepFake Video Detection, *AAAI* 2022: [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1978.GuZ.pdf)
 * Deepfake Network Architecture Attribution, *AAAI* 2022: [Paper](https://arxiv.org/abs/2202.13843) [Github](https://github.com/ICTMCG/DNA-Det)
 * Dual Contrastive Learning for General Face Forgery Detection, *AAAI* 2022: [Paper](https://arxiv.org/abs/2112.13522)
