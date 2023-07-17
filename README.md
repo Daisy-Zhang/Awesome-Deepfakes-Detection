@@ -226,7 +226,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 * Exploiting Fine-grained Face Forgery Clues via Progressive Enhancement Learning, *AAAI* 2022: [Paper](https://arxiv.org/pdf/2112.13977.pdf)
 * FInfer: Frame Inference-based Deepfake Detection for High-Visual-Quality Videos, *AAAI* 2022: [Paper](https://www.aaai.org/AAAI22Papers/AAAI-3317.HuJ.pdf)
 * FrePGAN: Robust Deepfake Detection Using Frequency-level Perturbations, *AAAI* 2022: [Paper](https://arxiv.org/pdf/2202.03347.pdf)
-* Domain General Face Forgery Detection by Learning to Weight, *AAAI* 2021: [Paper](https://www.aaai.org/AAAI21Papers/AAAI-589.SunK.pdf)    [Github](https://github.com/skJack/LTW)
+* Domain General Face Forgery Detection by Learning to Weight, *AAAI* 2021: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16367)    [Github](https://github.com/skJack/LTW)
 * Local Relation Learning for Face Forgery Detection, *AAAI* 2021: [Paper](https://arxiv.org/pdf/2105.02577.pdf)
 
 ### MM
