@@ -60,7 +60,7 @@ This repo only collect papers related to Deepfake Detection. If you are also int
 |         EBV         |      -      |     49      | 2018 |                    focus on eye blinking                     |
 |   Deepfake-TIMIT    |     320     |     640     | 2018 |                      GAN-Based methods                       |
 |        DFFD         |    1,000    |    3000     | 2019 |                     mutiple SOTA methods                     |
-|  DeepfakeDetection  |     363     |    3,608    | 2019 | collect from actors with publicly available generation methods |
+|  DeepfakeDetection  |     363     |    3,068    | 2019 | collect from actors with publicly available generation methods |
 |    Celeb-DF (v2)    |     590     |    5639     | 2019 |                         high quality                         |
 |        DFDC         |   23,564    |   104,500   | 2019 |                  DFDC competition on Kaggle                  |
 |   FaceForensic++    |    1,000    |    5,000    | 2019 |              five different generation methods               |
