@@ -2,11 +2,11 @@
 
 ![](assets/cover.jpg)
 
-A list of Deepfakes Detection datasets, tools, papers and code. If this list help you in your research, a star is my pleasure.
+A collection list of Deepfakes Detection related datasets, tools, papers, and code. If this list helps you on your research, a star will be my pleasure :)
 
-If you want to contribute to this list, welcome to send me a pull request or contact me :) .
+If you want to contribute to this list, welcome to send me a pull request or contact me :)
 
-This repo only collect papers related to Deepfake Detection. If you are also interested in Deepfakes, please refer to: [Awesome Deepfakes](https://github.com/Daisy-Zhang/Awesome-Deepfakes).
+This repository only collects papers related to Deepfake Detection. If you are also interested in Deepfakes generation, please refer to: [Awesome Deepfakes](https://github.com/Daisy-Zhang/Awesome-Deepfakes).
 
 ## Contents
 
