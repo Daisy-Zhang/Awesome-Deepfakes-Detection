@@ -24,6 +24,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 - [Localization](#localization)
 - [Multi-modal Based](#multi-modal-based)
 - [Biological Signal](#biological-signal)
+- [Robustness](#robustness)
 - [Fairness](#fairness)
 - [Fingerprint and Watermark](#fingerprint-and-watermark)
 - [Identity-Related](#identity-related)
@@ -117,6 +118,12 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ### CVPR
 
+* Exploiting Style Latent Flows for Generalizing Video Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/abs/2403.06592)
+* AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/pdf/2406.02951v1)
+* Transcending Forgery Specificity with Latent Space Augmentation for Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/abs/2311.11278)
+* Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/abs/2312.10461) [Github](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)
+* LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/pdf/2401.13856) [Github](https://github.com/10Ring/LAA-Net)
+* Preserving Fairness Generalization in Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/pdf/2402.17229) [Github](https://github.com/Purdue-M2/Fairness-Generalization)
 * Implicit Identity Leakage: The Stumbling Block to Improving Deepfake Detection Generalization, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Implicit_Identity_Leakage_The_Stumbling_Block_to_Improving_Deepfake_Detection_CVPR_2023_paper.pdf) [Github](https://github.com/megvii-research/CADDM)
 * Implicit Identity Driven Deepfake Face Swapping Detection, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Implicit_Identity_Driven_Deepfake_Face_Swapping_Detection_CVPR_2023_paper.pdf)
 * AltFreezing for More General Face Forgery Detection, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_AltFreezing_for_More_General_Video_Face_Forgery_Detection_CVPR_2023_paper.pdf)
@@ -167,6 +174,12 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ### ICCV
 
+* Towards Understanding the Generalization of Deepfake Detectors from a Game-Theoretical View, *ICCV 2023*: [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yao_Towards_Understanding_the_Generalization_of_Deepfake_Detectors_from_a_Game-Theoretical_ICCV_2023_paper.pdf)
+* Controllable Guide-Space for Generalizable Face Forgery Detection, *ICCV 2023*: [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Controllable_Guide-Space_for_Generalizable_Face_Forgery_Detection_ICCV_2023_paper.pdf)
+* TALL: Thumbnail Layout for Deepfake Video Detection, *ICCV 2023*: [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_TALL_Thumbnail_Layout_for_Deepfake_Video_Detection_ICCV_2023_paper.pdf) [Github](https://github.com/rainy-xu/TALL4Deepfake)
+* Quality-Agnostic Deepfake Detection with Intra-model Collaborative Learning, *ICCV 2023*: [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Le_Quality-Agnostic_Deepfake_Detection_with_Intra-model_Collaborative_Learning_ICCV_2023_paper.pdf)
+* UCF: Uncovering Common Features for Generalizable Deepfake Detection, *ICCV 2023*: [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_UCF_Uncovering_Common_Features_for_Generalizable_Deepfake_Detection_ICCV_2023_paper.pdf)
+* Contrastive Pseudo Learning for Open-World DeepFake Attribution, *ICCV 2023*: [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Sun_Contrastive_Pseudo_Learning_for_Open-World_DeepFake_Attribution_ICCV_2023_paper.pdf)
 * ID-Reveal: Identity-aware DeepFake Video Detection, *ICCV* 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cozzolino_ID-Reveal_Identity-Aware_DeepFake_Video_Detection_ICCV_2021_paper.pdf) [Github](https://github.com/grip-unina/id-reveal)
 * Learning Self-Consistency for Deepfake Detection, *ICCV* 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Learning_Self-Consistency_for_Deepfake_Detection_ICCV_2021_paper.pdf)
 * Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data, *ICCV* 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Artificial_Fingerprinting_for_Generative_Models_Rooting_Deepfake_Attribution_in_Training_ICCV_2021_paper.pdf) [Github](https://github.com/ningyu1991/ArtificialGANFingerprints)
@@ -190,16 +203,18 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * Thinking in Frequency: Face Forgery Detection by Mining Frequency-aware Clues, *ECCV* 2020: [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570086.pdf)
 * Two-branch Recurrent Network for Isolating Deepfakes in Videos, *ECCV* 2020: [Paper](https://arxiv.org/abs/2008.03412)
 
-### NIPS
+### NeurIPS
 
-* Delving into Sequential Patches for Deepfake Detection, *NIPS* 2022: [Paper](https://openreview.net/forum?id=osPA8Bs4MJB)
-* OST: Improving Generalization of DeepFake Detection via One-Shot Test-Time Training, *NIPS* 2022: [Paper](https://openreview.net/forum?id=YPoRoad6gzY) [Github](https://github.com/liangchen527/OST)
+* DeepfakeBench: A Comprehensive Benchmark of Deepfake Detection, *NeurIPS* 2023: [Paper](https://papers.nips.cc/paper_files/paper/2023/file/0e735e4b4f07de483cbe250130992726-Paper-Datasets_and_Benchmarks.pdf) [Github](https://github.com/SCLBD/DeepfakeBench)
+* Delving into Sequential Patches for Deepfake Detection, *NeurIPS* 2022: [Paper](https://openreview.net/forum?id=osPA8Bs4MJB)
+* OST: Improving Generalization of DeepFake Detection via One-Shot Test-Time Training, *NeurIPS* 2022: [Paper](https://openreview.net/forum?id=YPoRoad6gzY) [Github](https://github.com/liangchen527/OST)
 
-* WaveFake: A Data Set to Facilitate Audio Deepfake Detection, *NIPS* 2021: [Paper](https://arxiv.org/abs/2111.02813) [Github](https://github.com/RUB-SysSec/WaveFake)
-* AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection, *NIPS* 2020: [Paper](https://papers.nips.cc/paper/2020/file/f718499c1c8cef6730f9fd03c8125cab-Paper.pdf)
+* WaveFake: A Data Set to Facilitate Audio Deepfake Detection, *NeurIPS* 2021: [Paper](https://arxiv.org/abs/2111.02813) [Github](https://github.com/RUB-SysSec/WaveFake)
+* AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection, *NeurIPS* 2020: [Paper](https://papers.nips.cc/paper/2020/file/f718499c1c8cef6730f9fd03c8125cab-Paper.pdf)
 
 ### ICLR
 
+* Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection, *ICLR* 2024: [Paper](https://openreview.net/pdf?id=8iTpB4RNvP) [Github](https://github.com/JWLiang007/PFF)
 * Responsible Disclosure of Generative Models Using Scalable Fingerprinting, *ICLR* 2022: [Paper](https://openreview.net/pdf?id=sOK-zS6WHB) [Github](https://github.com/ningyu1991/ScalableGANFingerprints)
 
 ### ICML
@@ -263,6 +278,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ## Spatiotemporal Based
 
+* TALL: Thumbnail Layout for Deepfake Video Detection, *ICCV 2023*: [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_TALL_Thumbnail_Layout_for_Deepfake_Video_Detection_ICCV_2023_paper.pdf) [Github](https://github.com/rainy-xu/TALL4Deepfake)
 * Hierarchical Contrastive Inconsistency Learning for Deepfake Video Detection, *ECCV* 2022: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_35)
 * Region-Aware Temporal Inconsistency Learning for DeepFake Video Detection, *IJCAI* 2022: [Paper](https://www.ijcai.org/proceedings/2022/0129.pdf)
 * FInfer: Frame Inference-based Deepfake Detection for High-Visual-Quality Videos, *AAAI* 2022: [Paper](https://www.aaai.org/AAAI22Papers/AAAI-3317.HuJ.pdf)
@@ -298,6 +314,12 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ## Generalization
 
+* Transcending Forgery Specificity with Latent Space Augmentation for Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/abs/2311.11278)
+* Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/abs/2312.10461) [Github](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)
+* Exploiting Style Latent Flows for Generalizing Video Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/abs/2403.06592)
+* Controllable Guide-Space for Generalizable Face Forgery Detection, *ICCV 2023*: [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Controllable_Guide-Space_for_Generalizable_Face_Forgery_Detection_ICCV_2023_paper.pdf)
+* Towards Understanding the Generalization of Deepfake Detectors from a Game-Theoretical View, *ICCV 2023*: [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yao_Towards_Understanding_the_Generalization_of_Deepfake_Detectors_from_a_Game-Theoretical_ICCV_2023_paper.pdf)
+* UCF: Uncovering Common Features for Generalizable Deepfake Detection, *ICCV 2023*: [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_UCF_Uncovering_Common_Features_for_Generalizable_Deepfake_Detection_ICCV_2023_paper.pdf)
 * Rethinking Domain Generalization for Face Anti-spoofing: Separability and Alignment, *CVPR* 2023: [Paper](https://arxiv.org/abs/2303.13662) [Github](https://github.com/sunyiyou/SAFAS)
 * Generalized Facial Manipulation Detection with Edge Region Feature Extraction, *WACV* 2022: [Paper](https://openaccess.thecvf.com/content/WACV2022/html/Kim_Generalized_Facial_Manipulation_Detection_With_Edge_Region_Feature_Extraction_WACV_2022_paper.html)
 * Supervised Contrastive Learning for Generalizable and Explainable DeepFakes Detection, *WACV* 2022: [Paper](https://openaccess.thecvf.com/content/WACV2022W/XAI4B/papers/Xu_Supervised_Contrastive_Learning_for_Generalizable_and_Explainable_DeepFakes_Detection_WACVW_2022_paper.pdf) [Github](https://github.com/xuyingzhongguo/deepfake_supcon)
@@ -340,6 +362,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ## Localization
 
+* LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/pdf/2401.13856) [Github](https://github.com/10Ring/LAA-Net)
 * Hierarchical Fine-Grained Image Forgery Detection and Localization, *CVPR* 2023: [Paper](https://arxiv.org/abs/2303.17111) [Github](https://github.com/CHELSEA234/HiFi_IFDL)
 * Region-Aware Temporal Inconsistency Learning for DeepFake Video Detection, *IJCAI* 2022: [Paper](https://www.ijcai.org/proceedings/2022/0129.pdf)
 * Exposing Face Forgery Clues via Retinex-based Image Enhancement, *ACCV* 2022: [Paper](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Exposing_Face_Forgery_Clues_via_Retinex-based_Image_Enhancement_ACCV_2022_paper.html)
@@ -353,6 +376,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ## Multi-modal Based
 
+* AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/pdf/2406.02951v1)
 * AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake, *TIFS* 2023: [Paper](https://ieeexplore.ieee.org/abstract/document/10081373/)
 * M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection, *ICMR* 2022: [Paper](https://dl.acm.org/doi/abs/10.1145/3512527.3531415?casa_token=fV-XMrFj4ecAAAAA:fWI0rX6rKIqX-Zjph6Aesc0_Ak1XfLHfB6GpTXEe-Cik_dEhveSngT62ciCEnPWwYy5uN13jpiTTE-I)
 * Voice-Face Homogeneity Tells Deepfake, *arXiv* 2022: [Paper](https://arxiv.org/abs/2203.02195)
@@ -380,9 +404,15 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * Predicting Heart Rate Variations of Deepfake Videos using Neural ODE, *ICCV Workshop* 2019: [Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVPM/Fernandes_Predicting_Heart_Rate_Variations_of_Deepfake_Videos_using_Neural_ODE_ICCVW_2019_paper.pdf)
 
 
+## Robustness
+
+* LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/pdf/2401.13856) [Github](https://github.com/10Ring/LAA-Net)
+* Quality-Agnostic Deepfake Detection with Intra-model Collaborative Learning, *ICCV 2023*: [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Le_Quality-Agnostic_Deepfake_Detection_with_Intra-model_Collaborative_Learning_ICCV_2023_paper.pdf)
+
 
 ## Fairness
 
+* Preserving Fairness Generalization in Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/pdf/2402.17229) [Github](https://github.com/Purdue-M2/Fairness-Generalization)
 * GBDF: Gender Balanced DeepFake Dataset Towards Fair DeepFake Detection, *ICPR* 2022: [Paper](https://arxiv.org/abs/2207.10246) [Github](https://github.com/aakash4305/GBDF)
 * A Comprehensive Analysis of AI Biases in DeepFake Detection With Massively Annotated Databases, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.05845) [Github](https://github.com/pterhoer/DeepFakeAnnotations)
 * An Examination of Fairness of AI Models for Deepfake Detection, *IJCAI* 2021: [Paper](https://www.ijcai.org/proceedings/2021/0079.pdf)
@@ -426,6 +456,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ## Adversarial Attack
 
+* Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection, *ICLR* 2024: [Paper](https://openreview.net/pdf?id=8iTpB4RNvP) [Github](https://github.com/JWLiang007/PFF)
 * Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection, *CVPR* 2022: [Paper](https://arxiv.org/abs/2203.12208) [Github](https://github.com/liangchen527/SLADD)
 * Exploring Frequency Adversarial Attacks for Face Forgery Detection, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Exploring_Frequency_Adversarial_Attacks_for_Face_Forgery_Detection_CVPR_2022_paper.pdf)
 * TAFIM: Targeted Adversarial Attacks against Facial Image Manipulations, *ECCV* 2022: [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740053.pdf) [Github](https://github.com/shivangi-aneja/TAFIM)
@@ -438,6 +469,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ## Real Scenario
 
+* Contrastive Pseudo Learning for Open-World DeepFake Attribution, *ICCV 2023*: [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Sun_Contrastive_Pseudo_Learning_for_Open-World_DeepFake_Attribution_ICCV_2023_paper.pdf)
 * A Continual Deepfake Detection Benchmark: Dataset, Methods, and Essentials, *WACV* 2023: [Paper](https://openaccess.thecvf.com/content/WACV2023/supplemental/Li_A_Continual_Deepfake_WACV_2023_supplemental.pdf)
 * Robust Image Forgery Detection Against Transmission Over Online Social Networks, *TIFS* 2022: [Paper](https://ieeexplore.ieee.org/abstract/document/9686650/) [Github](https://github.com/HighwayWu/ImageForensicsOSN)
 * Am I a Real or Fake Celebrity? Evaluating Face Recognition and Verification APIs under Deepfake Impersonation Attack, *Proceedings of the ACM Web Conference* 2022: [Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512212?casa_token=1exG7H-Zf5gAAAAA:bjJAkJKfAP8Ls7ohbQc3PyaTe8s_j_C-8QCca4INNw3eFWxhltDGvsSF7s_D-uVHdsapMJ4II5shIp4) [Github](https://github.com/shahroztariq/Deepfake_Impersonation_Attack)
