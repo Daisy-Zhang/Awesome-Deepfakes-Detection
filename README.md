@@ -538,7 +538,6 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * FedForgery: Generalized Face Forgery Detection with Residual Federated Learning, *arXiv* 2022: [Paper](https://arxiv.org/abs/2210.09563) [Github](https://github.com/GANG370/FedForgery)
 
 
-
 ## Knowledge Distillation
 
 * Confidence-Calibrated Face Image Forgery Detection with Contrastive Representation Distillation, *ACCV* 2022: [Paper](https://openaccess.thecvf.com/content/ACCV2022/html/Yang_Confidence-Calibrated_Face_Image_Forgery_Detection_with_Contrastive_Representation_Distillation_ACCV_2022_paper.html) [Github](https://github.com/Puning97/CDC_face_forgery_detection)
@@ -549,6 +548,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ## Depth Based
 
+* A guided-based approach for deepfake detection: RGB-depth integration via features fusion, *Pattern Recognition Letters* 2024: [Paper](https://www.sciencedirect.com/science/article/pii/S0167865524000990) [Github](https://github.com/gleporoni/rgbd-depthfake)
 * DepthFake: a depth-based strategy for detecting Deepfake videos, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.11074)
 * Exploring Depth Information for Face Manipulation Detection, *arXiv* 2022: [Paper](https://arxiv.org/abs/2212.14230)
 
