@@ -26,7 +26,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 - [Biological Signal](#biological-signal)
 - [Robustness](#robustness)
 - [Fairness](#fairness)
-- [Fingerprint and Watermark](#fingerprint-and-watermark)
+- [Fingerprint/Watermark](#fingerprint-watermark)
 - [Identity-Related](#identity-related)
 - [Adversarial Attack](#adversarial-attack)
 - [Real Scenario](#real-scenario)
@@ -419,7 +419,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 
 
-## Fingerprint and Watermark
+## Fingerprint Watermark
 
 * Responsible Disclosure of Generative Models Using Scalable Fingerprinting, *ICLR* 2022: [Paper](https://openreview.net/forum?id=sOK-zS6WHB) [Github](https://github.com/ningyu1991/ScalableGANFingerprints)
 * DeepFake Disrupter: The Detector of DeepFake Is My Friend, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_DeepFake_Disrupter_The_Detector_of_DeepFake_Is_My_Friend_CVPR_2022_paper.html)
