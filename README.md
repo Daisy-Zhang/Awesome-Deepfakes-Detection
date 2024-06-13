@@ -7,7 +7,7 @@ A collection list of Deepfakes Detection related datasets, tools, papers, and co
 
 If you want to contribute to this list, welcome to send me a pull request or contact me :)
 
-This repository only collects papers related to Deepfake Detection. If you are also interested in Deepfakes generation or more recent AIGC(AI-Generated Content) detection, please refer to: [Awesome Deepfakes](https://github.com/Daisy-Zhang/Awesome-Deepfakes) and [Awesome AIGC Detection](https://github.com/Daisy-Zhang/Awesome-AIGC-Detection/)
+This repository only collects papers related to Deepfake Detection. If you are also interested in Deepfakes generation or more recent AIGC(AI-Generated Content) detection, please refer to: [Awesome Deepfakes](https://github.com/Daisy-Zhang/Awesome-Deepfakes) and [Awesome AIGC Detection](https://github.com/Daisy-Zhang/Awesome-AIGC-Detection/).
 
 ## Contents
 
