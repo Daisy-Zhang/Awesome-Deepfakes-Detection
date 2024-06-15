@@ -57,6 +57,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * **Wild Deepfake**: WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection. [Paper](https://arxiv.org/abs/2101.01456)    [Download](https://github.com/deepfakeinthewild/deepfake-in-the-wild)
 * **ForgeryNet**: ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis. [Paper](https://arxiv.org/abs/2103.05630)    [Download](https://github.com/yinanhe/forgerynet)
 * **WLDR**: Protecting World Leaders Against Deep Fakes. [Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf)
+* **FakeAVCeleb**: FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset. [Paper](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper-round2.pdf) [Download](https://github.com/DASH-Lab/FakeAVCeleb)
 
 |                     | Real Videos | Fake Videos | Year |                             Note                             |
 | :-----------------: | :---------: | :---------: | :--: | :----------------------------------------------------------: |
@@ -73,7 +74,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 | DeeperForensics-1.0 |   50,000    |   10,000    | 2020 |                 add real-world perturbations                 |
 |    Wild-Deepfake    |    3,805    |    3,509    | 2021 |                    collect from Internet                     |
 |     ForgeryNet      |   99,630    |   121,617   | 2021 |     8 video-level generation methods, add perturbations      |
-
+|     FakeAVCeleb     |      500    |   19,500    | 2021 |           audio-visual multi-modalies dataset                |
 
 
 ### Image Datasets
