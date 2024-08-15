@@ -11,33 +11,46 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ## Contents
 
-- [Datasets](#datasets)
-- [Competitions](#competitions)
-- [Tools](#tools)
-- [Recent Conference Papers](#recent-conference-papers)
-- [Survey](#survey)
-- [Spatiotemporal Based](#spatiotemporal-based)
-- [Frequency Based](#frequency-based)
-- [Generalization](#generalization)
-- [Interpretability](#interpretability)
-- [Human-Decision](#human-decision)
-- [Localization](#localization)
-- [Multi-modal Based](#multi-modal-based)
-- [Biological Signal](#biological-signal)
-- [Robustness](#robustness)
-- [Fairness](#fairness)
-- [Fingerprint/Watermark](#fingerprint-watermark)
-- [Identity-Related](#identity-related)
-- [Adversarial Attack](#adversarial-attack)
-- [Real Scenario](#real-scenario)
-- [Anomaly Detection](#anomaly-detection)
-- [Self-Supervised Learning](#self-supervised-learning)
-- [Source Model Attribution](#source-model-attribution)
-- [Multiclass Classification](#multiclass-classification)
-- [Federated Learning](#federated-learning)
-- [Knowledge Distillation](#knowledge-distillation)
-- [Meta-Learning](#meta-learning)
-- [Depth Based](#depth-based)
+- [Awesome Deepfakes Detection](#awesome-deepfakes-detection)
+  - [Contents](#contents)
+  - [Datasets](#datasets)
+    - [Video Datasets](#video-datasets)
+    - [Image Datasets](#image-datasets)
+  - [Competitions](#competitions)
+  - [Tools](#tools)
+  - [Recent Conference Papers](#recent-conference-papers)
+    - [CVPR](#cvpr)
+    - [ICCV](#iccv)
+    - [ECCV](#eccv)
+    - [NeurIPS](#neurips)
+    - [ICLR](#iclr)
+    - [ICML](#icml)
+    - [IJCAI](#ijcai)
+    - [AAAI](#aaai)
+    - [MM](#mm)
+  - [Survey](#survey)
+  - [Spatiotemporal Based](#spatiotemporal-based)
+  - [Frequency Based](#frequency-based)
+  - [Generalization](#generalization)
+  - [Interpretability](#interpretability)
+  - [Human-Decision](#human-decision)
+  - [Localization](#localization)
+  - [Multi-modal Based](#multi-modal-based)
+  - [Biological Signal](#biological-signal)
+  - [Robustness](#robustness)
+  - [Fairness](#fairness)
+  - [Fingerprint Watermark](#fingerprint-watermark)
+  - [Identity-Related](#identity-related)
+  - [Adversarial Attack](#adversarial-attack)
+  - [Real Scenario](#real-scenario)
+  - [Anomaly Detection](#anomaly-detection)
+  - [Self-Supervised Learning](#self-supervised-learning)
+  - [Source Model Attribution](#source-model-attribution)
+  - [Multiclass Classification](#multiclass-classification)
+  - [Federated Learning](#federated-learning)
+  - [Knowledge Distillation](#knowledge-distillation)
+  - [Meta-Learning](#meta-learning)
+  - [Depth Based](#depth-based)
 
 ## Datasets
 
@@ -58,6 +71,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * **ForgeryNet**: ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis. [Paper](https://arxiv.org/abs/2103.05630)    [Download](https://github.com/yinanhe/forgerynet)
 * **WLDR**: Protecting World Leaders Against Deep Fakes. [Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf)
 * **FakeAVCeleb**: FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset. [Paper](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper-round2.pdf) [Download](https://github.com/DASH-Lab/FakeAVCeleb)
+* **IDForge**: IDForge: An Identity-driven Multimedia Forgery Dataset. [Paper](https://arxiv.org/abs/2401.11764) [Download](https://github.com/xyyandxyy/IDForge)
 
 |                     | Real Videos | Fake Videos | Year |                             Note                             |
 | :-----------------: | :---------: | :---------: | :--: | :----------------------------------------------------------: |
@@ -75,6 +89,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 |    Wild-Deepfake    |    3,805    |    3,509    | 2021 |                    collect from Internet                     |
 |     ForgeryNet      |   99,630    |   121,617   | 2021 |     8 video-level generation methods, add perturbations      |
 |     FakeAVCeleb     |      500    |   19,500    | 2021 |           audio-visual multi-modalies dataset                |
+|       IDForge       |      79,827+214,438 (Ref)    |   169,311    | 2024 |           multi-modalies dataset with extra identity information, high quality              |
 
 
 ### Image Datasets
@@ -267,6 +282,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * Sharp Multiple Instance Learning for DeepFake Video Detection, *ACM MM* 2020: [Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3414034)
 * DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms, *ACM MM* 2020: [Paper](https://dl.acm.org/doi/10.1145/3394171.3413707)
 * Emotions Don't Lie: An Audio-Visual Deepfake Detection Method using Affective Cues, *ACM MM* 2020: [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413570)
+* Identity-Driven Multimedia Forgery Detection via Reference Assistance, *ACM MM 2024*:  [Paper](https://arxiv.org/abs/2401.11764)
 
 
 
@@ -455,6 +471,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * Detecting Deep-Fake Videos from Appearance and Behavior, *WIFS* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9360904/)
 * Identity-Driven DeepFake Detection, *arXiv* 2020: [Paper](https://arxiv.org/abs/2012.03930)
 * Protecting World Leaders Against Deep Fakes, *CVPR Workshop* 2019: [Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf)
+* Identity-Driven Multimedia Forgery Detection via Reference Assistance, *ACM MM 2024*:  [Paper](https://arxiv.org/abs/2401.11764)
 
 
 
