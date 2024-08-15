@@ -222,8 +222,8 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 * DRCT: Diffusion Reconstruction Contrastive Training towards Universal Detection of Diffusion Generated Images, *ICML* 2024: [Paper](https://proceedings.mlr.press/v235/chen24ay.html) [Github](https://github.com/beibuwandeluori/DRCT)
 * How to Trace Latent Generative Model Generated Images without Artificial Watermark? *ICML* 2024: [Paper](https://proceedings.mlr.press/v235/wang24bj.html)
+* DistilDIRE: A Small, Fast, Cheap and Lightweight Diffusion Synthesized Deepfake Detection, *ICML Workshop* 2024: [Paper](https://arxiv.org/abs/2406.00856)    [Github](https://github.com/miraflow/DistilDIRE)
 * Leveraging Frequency Analysis for Deep Fake Image Recognition, *ICML* 2020: [Paper](http://proceedings.mlr.press/v119/frank20a/frank20a.pdf)    [Github](https://github.com/RUB-SysSec/GANDCTAnalysis)
-* DistilDIRE: A Small, Fast, Cheap and Lightweight Diffusion Synthesized Deepfake Detection, *ICML* 2024: [Paper](https://arxiv.org/abs/2406.00856)    [Github](https://github.com/miraflow/DistilDIRE)
 
 ### IJCAI
 
