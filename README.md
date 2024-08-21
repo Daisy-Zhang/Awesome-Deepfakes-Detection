@@ -58,23 +58,25 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * **ForgeryNet**: ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis. [Paper](https://arxiv.org/abs/2103.05630)    [Download](https://github.com/yinanhe/forgerynet)
 * **WLDR**: Protecting World Leaders Against Deep Fakes. [Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf)
 * **FakeAVCeleb**: FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset. [Paper](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper-round2.pdf) [Download](https://github.com/DASH-Lab/FakeAVCeleb)
+* **DeepSpeak** DeepSpeak Dataset v1.0 [Paper](https://arxiv.org/abs/2408.05366) [Download](https://huggingface.co/datasets/faridlab/deepspeak_v1)
 
-|                     | Real Videos | Fake Videos | Year |                             Note                             |
-| :-----------------: | :---------: | :---------: | :--: | :----------------------------------------------------------: |
-|        UADFV        |     49      |     49      | 2018 |                      focus on head pose                      |
-|         EBV         |      -      |     49      | 2018 |                    focus on eye blinking                     |
-|   Deepfake-TIMIT    |     320     |     640     | 2018 |                      GAN-Based methods                       |
-|        DFFD         |    1,000    |    3000     | 2019 |                     mutiple SOTA methods                     |
-|  DeepfakeDetection  |     363     |    3,068    | 2019 | collect from actors with publicly available generation methods |
-|    Celeb-DF (v2)    |     590     |    5639     | 2019 |                         high quality                         |
-|        DFDC         |   23,564    |   104,500   | 2019 |                  DFDC competition on Kaggle                  |
-|   FaceForensic++    |    1,000    |    5,000    | 2019 |              five different generation methods               |
-|      FFIW-10K       |   10,000    |   10,000    | 2019 |                  mutiple faces in one frame                  |
-|        WLDR         |      -      |      -      | 2019 |            person of interest video from Youtube             |
-| DeeperForensics-1.0 |   50,000    |   10,000    | 2020 |                 add real-world perturbations                 |
-|    Wild-Deepfake    |    3,805    |    3,509    | 2021 |                    collect from Internet                     |
-|     ForgeryNet      |   99,630    |   121,617   | 2021 |     8 video-level generation methods, add perturbations      |
-|     FakeAVCeleb     |      500    |   19,500    | 2021 |           audio-visual multi-modalies dataset                |
+|                     | Real Videos | Fake Videos | Year |                             Note                                                    |
+| :-----------------: | :---------: | :---------: | :--: | :---------------------------------------------------------------------------------: |
+|        UADFV        |     49      |     49      | 2018 | focus on head pose                                                                  |
+|         EBV         |      -      |     49      | 2018 | focus on eye blinking                                                               |
+|   Deepfake-TIMIT    |     320     |     640     | 2018 | GAN-Based methods                                                                   |
+|        DFFD         |    1,000    |    3000     | 2019 | mutiple SOTA methods                                                                |
+|  DeepfakeDetection  |     363     |    3,068    | 2019 | collect from actors with publicly available generation methods                      |
+|    Celeb-DF (v2)    |     590     |    5639     | 2019 | high quality                                                                        |
+|        DFDC         |   23,564    |   104,500   | 2019 | DFDC competition on Kaggle                                                          |
+|   FaceForensic++    |    1,000    |    5,000    | 2019 | five different generation methods                                                   |
+|      FFIW-10K       |   10,000    |   10,000    | 2019 | mutiple faces in one frame                                                          |
+|        WLDR         |      -      |      -      | 2019 | person of interest video from Youtube                                               |
+| DeeperForensics-1.0 |   50,000    |   10,000    | 2020 | add real-world perturbations                                                        |
+|    Wild-Deepfake    |    3,805    |    3,509    | 2021 | collect from Internet                                                               |
+|     ForgeryNet      |   99,630    |   121,617   | 2021 | 8 video-level generation methods, add perturbations                                 |
+|     FakeAVCeleb     |      500    |   19,500    | 2021 | audio-visual multi-modalies dataset                                                 |
+|      DeepSpeak      |    6,226    |    5,958    | 2024 | SOTA lip-sync and face-swap deepfakes, real and fake audio, consenting participants |
 
 
 ### Image Datasets
