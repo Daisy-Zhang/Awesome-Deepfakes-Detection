@@ -196,6 +196,11 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ### ECCV
 
+* Learning Natural Consistency Representation for Face Forgery Video Detection, *ECCV* 2024: [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11103.pdf)
+* Contrasting Deepfakes Diffusion via Contrastive Learning and Global-Local Similarities, *ECCV* 2024: [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08009.pdf)
+* Common Sense Reasoning for Deep Fake Detection, *ECCV* 2024: [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12295.pdf)
+* Real Appearance Modeling for More General Deepfake Detection, *ECCV* 2024: [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06913.pdf)
+* Fake It till You Make It: Curricular Dynamic Forgery Augmentations towards General Deepfake Detection, *ECCV* 2024: [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11581.pdf)
 * Detecting and Recovering Sequential DeepFake Manipulation, *ECCV* 2022: [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730710.pdf) [Github](https://github.com/rshaojimmy/SeqDeepFake)
 * Hierarchical Contrastive Inconsistency Learning for Deepfake Video Detection, *ECCV* 2022: [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720588.pdf)
 * Explaining Deepfake Detection by Analysing Image Matching, *ECCV* 2022: [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740018.pdf)
