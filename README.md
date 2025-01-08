@@ -214,6 +214,11 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ### NeurIPS
 
+* SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection, *NeurIPS* 2024: [Paper](https://nips.cc/virtual/2024/poster/94610) [Github](https://github.com/Eleven4AI/SpeechForensics)
+* Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes, *NeurIPS* 2024: [Paper](https://nips.cc/virtual/2024/poster/93027) [Github](https://github.com/AaronComo/LipFD)
+* FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge, *NeurIPS* 2024: [Paper](https://nips.cc/virtual/2024/poster/93596)
+* Can We Leave Deepfake Data Behind in Training Deepfake Detector? *NeurIPS* 2024: [Paper](https://arxiv.org/pdf/2408.17052)
+* SLIM: Style-Linguistics Mismatch Model for Generalized Audio Deepfake Detection. *NeurIPS* 2024: [Paper](https://nips.cc/virtual/2024/poster/94173)
 * DeepfakeBench: A Comprehensive Benchmark of Deepfake Detection, *NeurIPS* 2023: [Paper](https://papers.nips.cc/paper_files/paper/2023/file/0e735e4b4f07de483cbe250130992726-Paper-Datasets_and_Benchmarks.pdf) [Github](https://github.com/SCLBD/DeepfakeBench)
 * Delving into Sequential Patches for Deepfake Detection, *NeurIPS* 2022: [Paper](https://openreview.net/forum?id=osPA8Bs4MJB)
 * OST: Improving Generalization of DeepFake Detection via One-Shot Test-Time Training, *NeurIPS* 2022: [Paper](https://openreview.net/forum?id=YPoRoad6gzY) [Github](https://github.com/liangchen527/OST)
