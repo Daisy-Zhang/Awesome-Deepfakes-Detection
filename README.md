@@ -76,7 +76,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 |    Wild-Deepfake    |    3,805    |    3,509    | 2021 | collect from Internet                                                               |
 |     ForgeryNet      |   99,630    |   121,617   | 2021 | 8 video-level generation methods, add perturbations                                 |
 |     FakeAVCeleb     |      500    |   19,500    | 2021 | audio-visual multi-modalies dataset                                                 |
-|      DeepSpeak      |    6,226    |    5,958    | 2024 | lip-sync and face-swap deepfakes with audio manipulated                             |
+|      DeepSpeak      |    6,226    |    6,799    | 2024 | lip-sync and face-swap deepfakes with audio manipulated                             |
 
 
 ### Image Datasets
