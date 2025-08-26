@@ -59,6 +59,8 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * **WLDR**: Protecting World Leaders Against Deep Fakes. [Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf)
 * **FakeAVCeleb**: FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset. [Paper](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper-round2.pdf) [Download](https://github.com/DASH-Lab/FakeAVCeleb)
 * **DeepSpeak**: DeepSpeak Dataset v1.0. [Paper](https://arxiv.org/abs/2408.05366) [Download](https://huggingface.co/datasets/faridlab/deepspeak_v1)
+* **IDForge**: IDForge: An Identity-driven Multimedia Forgery Dataset. [Paper](https://arxiv.org/abs/2401.11764) [Download](https://github.com/xyyandxyy/IDForge)
+* **Celeb-DF++**: Celeb-DF++: A Large-scale Challenging Video DeepFake Benchmark for Generalizable Forensics. [Paper](https://arxiv.org/abs/2507.18015) [Download](https://github.com/OUC-VAS/Celeb-DF-PP)
 
 |                     | Real Videos | Fake Videos | Year |                             Note                                                    |
 | :-----------------: | :---------: | :---------: | :--: | :---------------------------------------------------------------------------------: |
@@ -76,7 +78,9 @@ This repository only collects papers related to Deepfake Detection. If you are a
 |    Wild-Deepfake    |    3,805    |    3,509    | 2021 | collect from Internet                                                               |
 |     ForgeryNet      |   99,630    |   121,617   | 2021 | 8 video-level generation methods, add perturbations                                 |
 |     FakeAVCeleb     |      500    |   19,500    | 2021 | audio-visual multi-modalies dataset                                                 |
-|      DeepSpeak      |    6,226    |    5,958    | 2024 | lip-sync and face-swap deepfakes with audio manipulated                             |
+|      DeepSpeak      |    6,226    |    6,799    | 2024 | lip-sync and face-swap deepfakes with audio manipulated                             |
+|       IDForge       |   79,827    |   169,311   | 2024 | multi-modalies dataset with extra identity information, high quality                |
+|    Celeb-DF++       |     590     |    53,196   | 2025 | large-scale and challenging video benchmark for generlization                       |
 
 
 ### Image Datasets
