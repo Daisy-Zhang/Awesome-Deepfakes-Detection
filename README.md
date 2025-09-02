@@ -399,6 +399,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 * AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/pdf/2406.02951v1)
 * Lost in Translation: Lip-Sync Deepfake Detection from Audio-Video Mismatch, *CVPR Workshop* 2024: [Paper](https://openaccess.thecvf.com/content/CVPR2024W/WMF/html/Bohacek_Lost_in_Translation_Lip-Sync_Deepfake_Detection_from_Audio-Video_Mismatch_CVPRW_2024_paper.html)
+* EXIF as Language: Learning Cross-Modal Associations Between Images and Camera Metadata, *CVPR* 2023: [Paper](https://arxiv.org/pdf/2301.04647) [Github](https://github.com/hellomuffin/exif-as-language)
 * AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake, *TIFS* 2023: [Paper](https://ieeexplore.ieee.org/abstract/document/10081373/)
 * M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection, *ICMR* 2022: [Paper](https://dl.acm.org/doi/abs/10.1145/3512527.3531415?casa_token=fV-XMrFj4ecAAAAA:fWI0rX6rKIqX-Zjph6Aesc0_Ak1XfLHfB6GpTXEe-Cik_dEhveSngT62ciCEnPWwYy5uN13jpiTTE-I)
 * Voice-Face Homogeneity Tells Deepfake, *arXiv* 2022: [Paper](https://arxiv.org/abs/2203.02195)
