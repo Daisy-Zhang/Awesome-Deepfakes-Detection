@@ -478,6 +478,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ## Adversarial Attack
 
+* Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection, *TDSC* 2025: [Paper](https://ieeexplore.ieee.org/abstract/document/11106399) [Github](https://github.com/OUC-VAS/FacePoison)
 * Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection, *ICLR* 2024: [Paper](https://openreview.net/pdf?id=8iTpB4RNvP) [Github](https://github.com/JWLiang007/PFF)
 * Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection, *CVPR* 2022: [Paper](https://arxiv.org/abs/2203.12208) [Github](https://github.com/liangchen527/SLADD)
 * Exploring Frequency Adversarial Attacks for Face Forgery Detection, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Exploring_Frequency_Adversarial_Attacks_for_Face_Forgery_Detection_CVPR_2022_paper.pdf)
