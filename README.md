@@ -9,6 +9,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 This repository only collects papers related to Deepfake Detection. If you are also interested in Deepfakes generation, please refer to: [Awesome Deepfakes](https://github.com/Daisy-Zhang/Awesome-Deepfakes).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for deepfake detection workflow orchestration, automated media analysis management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Datasets](#datasets)
