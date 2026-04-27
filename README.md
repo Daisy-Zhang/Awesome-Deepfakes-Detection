@@ -115,6 +115,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 ## Tools
 
 * **Sensity**: [Website](https://sensity.ai/)
+* **Resemble AI Deepfake Detector**: [Website](https://chromewebstore.google.com/detail/resemble-ai-deepfake-dete/ligejojghpehckjpfldljdcckgcbngle)
 * **Deepware**: [Website](https://deepware.ai/)
 * **Baidu Security**: [Website](http://weishi.baidu.com/product/deepfake)
 * **DeepReal**: [Website](https://deepfakes.real-ai.cn/)
@@ -575,4 +576,3 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * A guided-based approach for deepfake detection: RGB-depth integration via features fusion, *Pattern Recognition Letters* 2024: [Paper](https://www.sciencedirect.com/science/article/pii/S0167865524000990) [Github](https://github.com/gleporoni/rgbd-depthfake)
 * DepthFake: a depth-based strategy for detecting Deepfake videos, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.11074)
 * Exploring Depth Information for Face Manipulation Detection, *arXiv* 2022: [Paper](https://arxiv.org/abs/2212.14230)
-
