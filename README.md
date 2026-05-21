@@ -335,6 +335,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ## Generalization
 
+* AuthGuard: Generalizable Deepfake Detection via Language Guidance, *WACV* 2026: [Paper](https://arxiv.org/abs/2506.04501) [Project](https://ericolony.github.io/Publications/authguard-generalizable-deepfake-detection-via-language-guidance/)
 * Transcending Forgery Specificity with Latent Space Augmentation for Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/abs/2311.11278)
 * Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/abs/2312.10461) [Github](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)
 * Exploiting Style Latent Flows for Generalizing Video Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/abs/2403.06592)
@@ -529,6 +530,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for Face Forgery Detection, *ECCV* 2022: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_23)
 * Dual Contrastive Learning for General Face Forgery Detection, *AAAI* 2022: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20130)
 * Self-supervised Transformer for Deepfake Detection, *arXiv* 2022: [Paper](https://arxiv.org/abs/2203.01265)
+* Learning Self-Consistency for Deepfake Detection, *ICCV* 2021: [Paper](https://arxiv.org/abs/2012.09311) [Project](https://ericolony.github.io/Publications/learning-self-consistency-for-deepfake-detection/)
 * MagDR: Mask-guided Detection and Reconstruction for Defending Deepfakes, *CVPR* 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_MagDR_Mask-Guided_Detection_and_Reconstruction_for_Defending_Deepfakes_CVPR_2021_paper.html)
 * DeepfakeUCL: Deepfake Detection via Unsupervised Contrastive Learning, *IJCNN* 2021: [Paper](https://arxiv.org/abs/2104.11507)
 * Deepfake videos detection using self-supervised decoupling network, *ICME* 2021: [Paper](https://ieeexplore.ieee.org/abstract/document/9428368/)
