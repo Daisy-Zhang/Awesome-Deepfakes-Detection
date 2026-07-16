@@ -118,6 +118,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * **Deepware**: [Website](https://deepware.ai/)
 * **Baidu Security**: [Website](http://weishi.baidu.com/product/deepfake)
 * **DeepReal**: [Website](https://deepfakes.real-ai.cn/)
+* **amige.**: image/video/text detector built around a trained generator-fingerprint router — a model that hints each scan toward the detectors that read that generator family best (the hint routes, it never enters the verdict), gated by a significance test so re-routing only happens on a real recall advantage. Calibrate-then-fuse ensembling (monotonic calibration that can only lower confidence), selective abstention to "uncertain" under a fitted false-positive bound, and continuous recalibration as generators drift. Dedicated deepfake (face-swap) axis with a hard C2PA/SynthID provenance clamp. [Website](https://amige.app) | [How the engine works](https://amige.app/the-machine) | [Video/deepfake detector](https://amige.app/ai-video-detector)
 
 
 
