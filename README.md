@@ -118,6 +118,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * **Deepware**: [Website](https://deepware.ai/)
 * **Baidu Security**: [Website](http://weishi.baidu.com/product/deepfake)
 * **DeepReal**: [Website](https://deepfakes.real-ai.cn/)
+* **Jura Trace**: [Website](https://juralabs.org/) - open-source, local-first desktop app; the rest of this list is hosted/cloud services.
 
 
 
