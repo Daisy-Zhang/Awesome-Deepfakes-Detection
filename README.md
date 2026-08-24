@@ -113,6 +113,8 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 
 ## Tools
+* [DECEPTRIX](https://github.com/narain-karti/DECEPTRIX) - Multi-modal deepfake detection and forensic intelligence engine featuring 5-signal evidentiary fusion, frequency spectral analysis, and automated forensic dossier generation.
+
 
 * **Sensity**: [Website](https://sensity.ai/)
 * **Deepware**: [Website](https://deepware.ai/)
