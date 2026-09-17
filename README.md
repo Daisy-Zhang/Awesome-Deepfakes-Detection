@@ -118,6 +118,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * **Deepware**: [Website](https://deepware.ai/)
 * **Baidu Security**: [Website](http://weishi.baidu.com/product/deepfake)
 * **DeepReal**: [Website](https://deepfakes.real-ai.cn/)
+* **isthisaigenerated.app**: [Website](https://isthisaigenerated.app/site/check/) — free browser checker for AI-generation warning signals in images, sampled video, text and documents; no account required, warning-only results with published measured limitations
 
 
 
