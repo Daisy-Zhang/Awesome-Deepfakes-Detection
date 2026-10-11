@@ -397,6 +397,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ## Multi-modal Based
 
+* PVSync: A Unified Lip-Sync Expert for Timing and Articulation, *arXiv* 2026: [Paper](https://arxiv.org/abs/2610.09223)
 * AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/pdf/2406.02951v1)
 * Lost in Translation: Lip-Sync Deepfake Detection from Audio-Video Mismatch, *CVPR Workshop* 2024: [Paper](https://openaccess.thecvf.com/content/CVPR2024W/WMF/html/Bohacek_Lost_in_Translation_Lip-Sync_Deepfake_Detection_from_Audio-Video_Mismatch_CVPRW_2024_paper.html)
 * EXIF as Language: Learning Cross-Modal Associations Between Images and Camera Metadata, *CVPR* 2023: [Paper](https://arxiv.org/pdf/2301.04647) [Github](https://github.com/hellomuffin/exif-as-language)
