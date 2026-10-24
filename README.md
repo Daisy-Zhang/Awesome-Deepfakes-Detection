@@ -118,6 +118,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * **Deepware**: [Website](https://deepware.ai/)
 * **Baidu Security**: [Website](http://weishi.baidu.com/product/deepfake)
 * **DeepReal**: [Website](https://deepfakes.real-ai.cn/)
+* **Verilive**: [GitHub](https://github.com/Shahrukhalid/verilive) (open source, runs in the browser; checks live video calls for face-swap signals using rPPG pulse, blink and face-boundary cues)
 
 
 
