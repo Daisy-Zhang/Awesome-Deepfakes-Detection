@@ -117,6 +117,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * **Sensity**: [Website](https://sensity.ai/)
 * **Deepware**: [Website](https://deepware.ai/)
 * **Baidu Security**: [Website](http://weishi.baidu.com/product/deepfake)
+* **CheckThatPhoto**: [Website](https://checkthatphoto.com/)
 * **DeepReal**: [Website](https://deepfakes.real-ai.cn/)
 
 
